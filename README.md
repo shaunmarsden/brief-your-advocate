@@ -11,13 +11,7 @@ Prepare someone else to carry your case to a third party you cannot be in the ro
 
 Asking someone to present your case on your behalf usually means handing them a generic summary and hoping they can improvise the rest. What actually helps is knowing what each further person genuinely cares about, distinct from what their title suggests, and being honest about what is still unconfirmed rather than presenting it as settled to look more finished.
 
-```mermaid
-flowchart TB
-    A["1. Paste the evidence and who your advocate presents to"]
-    B["2. People mapped to what's actually known, not titles"]
-    C["3. A briefing your advocate can actually speak from"]
-    A --> B --> C
-```
+![A briefing built from confirmed problems, known concerns and missing information.](assets/diagrams/16-brief-your-advocate.svg)
 
 ## Use It
 
