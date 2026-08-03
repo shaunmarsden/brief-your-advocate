@@ -42,10 +42,6 @@ No installation, project, or coding required to try it once.
 
 This prepares the briefing; your advocate still needs to actually be comfortable saying everything in it. Sending any message, and presenting the case itself, stays with them.
 
-## Licence
-
-MIT.
-
 ## Feedback
 
 Used it for a real case? [Start a discussion](https://github.com/shaunmarsden/brief-your-advocate/discussions) if something did not fit.
