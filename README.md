@@ -11,6 +11,14 @@ Prepare someone else to carry your case to a third party you cannot be in the ro
 
 Asking someone to present your case on your behalf usually means handing them a generic summary and hoping they can improvise the rest. What actually helps is knowing what each further person genuinely cares about, distinct from what their title suggests, and being honest about what is still unconfirmed rather than presenting it as settled to look more finished.
 
+```mermaid
+flowchart TB
+    A["1. Paste the evidence and who your advocate presents to"]
+    B["2. People mapped to what's actually known, not titles"]
+    C["3. A briefing your advocate can actually speak from"]
+    A --> B --> C
+```
+
 ## Use It
 
 Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in your evidence and who your advocate is presenting to. It produces:
@@ -20,9 +28,19 @@ Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemin
 - Likely questions with honest answers, including "not yet confirmed" where that is the truth
 - A message drafted for your advocate to send in their own name
 
-See [the worked example](example/): briefing a colleague to present a project proposal to two people, one with a concern actually on record, one where nothing is confirmed beyond their job title.
+<details>
+<summary><strong>See exactly what it produces</strong></summary>
 
-Use [the blank template](templates/briefing-template.md) for your own case.
+1. A summary your advocate can speak from, not a document to hand over unread
+2. Person-specific points for each further person, only where something is genuinely known about their concern
+3. Likely questions with honest answers, including "not yet confirmed" where that is true
+4. A message drafted for your advocate to send, never addressed as though you sent it directly
+
+</details>
+
+See [the worked example](example/): briefing a colleague to present a project proposal to two people, one with a concern actually on record, one where nothing is confirmed beyond their job title. For the harder case, a request to prepare a briefing before the advocate has actually agreed to carry it, read [the second worked example](example-two/).
+
+Use [the blank template](templates/briefing-template.md) for your own case, and [the review checklist](checks/checklist.md) before your advocate uses it.
 
 No installation, project, or coding required to try it once.
 

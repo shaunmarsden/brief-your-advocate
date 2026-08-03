@@ -46,4 +46,4 @@ Do not produce a briefing when:
 
 Your advocate should check every point is something they are actually prepared to say themselves, and that nothing outstanding has been upgraded to settled. Sending any message, and presenting the case itself, stays with your advocate.
 
-For a fictional worked example, read [the worked example](example/). Use [the blank template](templates/briefing-template.md) for your own case.
+For a fictional worked example, read [the worked example](example/). For the harder case, a briefing requested before the advocate has actually agreed to carry it, read [the second worked example](example-two/). Use [the blank template](templates/briefing-template.md) for your own case, and [the review checklist](checks/checklist.md) before your advocate uses it.
