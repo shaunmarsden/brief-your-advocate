@@ -11,7 +11,7 @@ Prepare someone else to carry your case to a third party you cannot be in the ro
 
 Asking someone to present your case on your behalf usually means handing them a generic summary and hoping they can improvise the rest. What actually helps is knowing what each further person genuinely cares about, distinct from what their title suggests, and being honest about what is still unconfirmed rather than presenting it as settled to look more finished.
 
-![A briefing built from confirmed problems, known concerns and missing information.](assets/diagrams/16-brief-your-advocate.svg)
+[![A briefing built from confirmed problems, known concerns and missing information.](assets/diagrams/16-brief-your-advocate.svg)](SKILL.md)
 
 ## Use It
 
