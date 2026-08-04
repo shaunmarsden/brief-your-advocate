@@ -5,7 +5,7 @@ description: Prepare someone else to carry your case to a third party you cannot
 
 # Brief Your Advocate
 
-You do not need to install anything to try this once: copy this whole file, paste it as your first message in any AI chat tool, then follow it with your actual inputs.
+You do not need to install anything to try this once. The lines between the dashes at the very top are just this file's label; leave them in. On GitHub, copy this using the **Raw** button near the top of the page rather than selecting the rendered text, so the tables and links below paste in cleanly. Send the whole file as your first message in any AI chat tool, then follow it with your actual inputs.
 
 An advocate carrying your case to someone else is doing work you cannot do directly, standing in a room or sending a message on your behalf. This prepares what they need to do that well. It does not replace them, contact anyone else directly, or assume what a further person cares about just because of their title.
 
