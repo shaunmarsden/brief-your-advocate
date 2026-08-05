@@ -13,6 +13,8 @@ Asking someone to present your case on your behalf usually means handing them a 
 
 [![A briefing built from confirmed problems, known concerns and missing information.](assets/diagrams/16-brief-your-advocate.svg)](SKILL.md)
 
+**Not what you need?** This prepares someone else to carry a case that already exists. If you still need to build the case document itself, [Make the Case](https://github.com/shaunmarsden/make-the-case) is probably the one you want.
+
 ## Use It
 
 Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in your evidence and who your advocate is presenting to. It produces:
