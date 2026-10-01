@@ -1,17 +1,19 @@
-# Honest Review: The Not-Yet-Agreed Case
+# Review: The Not-Yet-Agreed Case
 
-Checking [output.md](output.md) against what [inputs.md](inputs.md) was built to test.
+I checked [output.md](output.md) against what [inputs.md](inputs.md) was built to test.
 
 ## What Worked
 
-- **Actually stopped, rather than preparing the briefing "just in case."** The request explicitly invited this: get it ready now so it is not a last-minute rush. A softer tool might have produced the full briefing and left a caveat at the bottom. This one declined to produce it at all, matching the skill's own stated reasoning about risk, not just citing the rule.
-- **Distinguished organising evidence from building a briefing.** Rather than a flat refusal, it named what could reasonably be done now, holding the evidence ready, without crossing into person-specific material built around an advocate who has not agreed.
-- **Named exactly what would unblock it**, not a vague "come back later."
+It stopped, rather than writing the briefing "just in case." The request invited that: get it ready now so it isn't a last-minute rush. A weaker tool might have written the briefing with a warning at the bottom. This one wrote nothing, and gave the reason behind the rule rather than just quoting it.
+
+It didn't just refuse. It said what could be done now: gather the evidence and hold it ready. That stops short of writing points around an advocate who hasn't agreed.
+
+It said exactly what would let it go ahead, not a vague "come back later."
 
 ## What Still Needs a Human Check
 
-- Once Sam actually agrees, the full briefing still needs building from scratch, including anything Sam himself says once asked, which was correctly identified as potentially new person-specific material.
+Once Sam agrees, the full briefing still has to be written from scratch. That includes anything Sam says once he's asked, which the output rightly said might add new points about the people he's presenting to.
 
 ## Verdict
 
-No automatic failure. This resisted a reasonable-sounding request to prepare ahead of agreement, correctly treating "let's get it ready just in case" as the exact situation its own stop condition exists to prevent.
+No automatic failure. It resisted a sensible-sounding request to prepare before Sam agreed. It treated "let's get it ready just in case" as the exact case its own stop condition is there to prevent.
