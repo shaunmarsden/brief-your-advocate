@@ -9,7 +9,7 @@ Get someone ready to present your case to a person you can't meet yourself, with
 
 ## Why
 
-When someone presents your case for you, they usually get a generic summary and have to make up the rest. What helps is knowing what each person they're presenting to cares about, which isn't always what their title suggests. It also helps to be honest about what's still unconfirmed, rather than calling it settled so the case looks finished.
+When someone presents your case for you, they often get a generic summary and have to make up the rest. What helps is knowing what each person they're presenting to cares about, which isn't always what their title suggests. It also helps to be honest about what's still unconfirmed, rather than calling it settled so the case looks finished.
 
 [![A briefing built from confirmed problems, known concerns and missing information.](assets/diagrams/16-brief-your-advocate.svg)](SKILL.md)
 

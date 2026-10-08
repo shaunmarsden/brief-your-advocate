@@ -12,7 +12,9 @@ It said exactly what would let it go ahead, not a vague "come back later."
 
 ## What Still Needs a Human Check
 
-Once Sam agrees, the full briefing still has to be written from scratch. That includes anything Sam says once he's asked, which the output rightly said might add new points about the people he's presenting to.
+Once Sam agrees, the full briefing still has to be written from scratch. That includes anything Sam says once he's asked about what he'd need to feel comfortable presenting it, which the output said might become person-specific material.
+
+The output cites one stop condition: no advocate has agreed. A second also applies. The inputs say who is on the committee but nothing about what any of them cares about, so a person-specific briefing would mean guessing. That stays true after Sam agrees, unless someone finds out what the committee cares about.
 
 ## Verdict
 
