@@ -16,6 +16,12 @@ It wrote the draft message for Jordan to send in their own name, not as though y
 
 Before the meeting, Jordan should check they're comfortable saying everything in the "Person-Specific Points" section. Being handed lines isn't the same as being ready to say them when someone asks questions.
 
+The inputs say nothing about how the tool would be maintained, so Jordan has no answer for Priya yet. The output tells Jordan to "answer directly" but doesn't say there's nothing to answer with. Jordan needs a maintenance answer before the meeting.
+
+The summary states the ask as moving the tool from prototype to something the whole team can use. The inputs only say you proposed building it, so that wording is the output's, not yours. Check it's the ask you want made.
+
+The draft message opens "Hi both", so it's written to Priya and Tom for Jordan to send. [SKILL.md](../SKILL.md) asks for a message "for your advocate to send in their own name", and also says never to draft something addressed to a further person. [The checklist](../checks/checklist.md) repeats the second. The output follows the first, so the two instructions pull against each other.
+
 If Tom raises a specific concern in the meeting, this briefing can't have foreseen it. Jordan will have to handle it on the spot, and shouldn't expect the document to cover everything.
 
 ## Verdict

@@ -5,3 +5,5 @@ The first [example](../example/) tests whether the tool bases each point on evid
 - [inputs.md](inputs.md): a request for a briefing for a colleague who hasn't been asked yet
 - [output.md](output.md): the response, which stops rather than writing a briefing
 - [review.md](review.md): whether the tool held firm rather than helping anyway "just in case"
+
+The repository doesn't record which model wrote this response, or whether it knew what the test was checking. Read it as an illustration of what a good run looks like, not as a logged run.
