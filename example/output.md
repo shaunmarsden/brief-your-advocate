@@ -8,14 +8,14 @@ The ask: approval to move the internal reporting tool from prototype to somethin
 
 ## Person-Specific Points
 
-**For Priya (VP of Engineering):** Priya has specifically raised a concern about maintenance burden before. Lead with how this tool would actually be maintained long term, not just that it works now, since that is the actual concern on record, not a generic pitch about time saved.
+**For Maeve (VP of Engineering):** Maeve has specifically raised a concern about maintenance burden before. Lead with how this tool would actually be maintained long term, not just that it works now, since that is the actual concern on record, not a generic pitch about time saved.
 
 **For Tom (Finance Director):** Nothing has actually been confirmed about what Tom specifically cares about here. His title suggests cost is likely relevant, but that is an assumption, not something he has said. Do not present a specific budget concern as though it were confirmed; if cost comes up, the honest answer is that the exact figure is not confirmed yet.
 
 ## Likely Questions
 
 - "What's this actually going to cost to run?" Honest answer: not yet confirmed, IT is still quoting hosting costs.
-- "Who maintains this once it's live?" This is Priya's known concern; answer directly rather than deflecting to a general "the team will handle it."
+- "Who maintains this once it's live?" This is Maeve's known concern; answer directly rather than deflecting to a general "the team will handle it."
 - "Has anyone besides you actually used it?" Yes, two team members have tested it and confirmed the time saving.
 
 ## Message for Jordan to Send, If Needed
