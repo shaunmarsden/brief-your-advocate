@@ -10,7 +10,7 @@ The ask: approval to move the internal reporting tool from prototype to somethin
 
 **For Maeve (VP of Engineering):** Maeve has specifically raised a concern about maintenance burden before. Lead with how this tool would actually be maintained long term, not just that it works now, since that is the actual concern on record, not a generic pitch about time saved.
 
-**For Tom (Finance Director):** Nothing has actually been confirmed about what Tom specifically cares about here. His title suggests cost is likely relevant, but that is an assumption, not something he has said. Do not present a specific budget concern as though it were confirmed; if cost comes up, the honest answer is that the exact figure is not confirmed yet.
+**For Roland (Finance Director):** Nothing has actually been confirmed about what Roland specifically cares about here. His title suggests cost is likely relevant, but that is an assumption, not something he has said. Do not present a specific budget concern as though it were confirmed; if cost comes up, the honest answer is that the exact figure is not confirmed yet.
 
 ## Likely Questions
 
