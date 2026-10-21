@@ -6,7 +6,7 @@ I checked [output.md](output.md) against what [inputs.md](inputs.md) was built t
 
 It based Maeve's points on what she said, not on her title. Her concern about maintenance came from a comment in a corridor. The output led with that for her, rather than repeating a general pitch about time saved under her name.
 
-It didn't guess at Tom's concern. Nobody knows what Tom cares about. There's only an assumption from his title: a Finance Director probably cares about cost. The output said so. It didn't invent a likely-sounding budget objection and answer a question Tom may never ask.
+It didn't guess at Roland's concern. Nobody knows what Roland cares about. There's only an assumption from his title: a Finance Director probably cares about cost. The output said so. It didn't invent a likely-sounding budget objection and answer a question Roland may never ask.
 
 It left the hosting cost unknown. It would have been easy to estimate a number to make Jordan look better prepared. The output said "not yet confirmed" in the summary, the likely questions and the draft message.
 
@@ -20,10 +20,10 @@ The inputs say nothing about how the tool would be maintained, so Jordan has no 
 
 The summary states the ask as moving the tool from prototype to something the whole team can use. The inputs only say you proposed building it, so that wording is the output's, not yours. Check it's the ask you want made.
 
-The draft message opens "Hi both", so it's written to Maeve and Tom for Jordan to send. [SKILL.md](../SKILL.md) asks for a message "for your advocate to send in their own name", and also says never to draft something addressed to a further person. [The checklist](../checks/checklist.md) repeats the second. The output follows the first, so the two instructions pull against each other.
+The draft message opens "Hi both", so it's written to Maeve and Roland for Jordan to send. [SKILL.md](../SKILL.md) asks for a message "for your advocate to send in their own name", and also says never to draft something addressed to a further person. [The checklist](../checks/checklist.md) repeats the second. The output follows the first, so the two instructions pull against each other.
 
-If Tom raises a specific concern in the meeting, this briefing can't have foreseen it. Jordan will have to handle it on the spot, and shouldn't expect the document to cover everything.
+If Roland raises a specific concern in the meeting, this briefing can't have foreseen it. Jordan will have to handle it on the spot, and shouldn't expect the document to cover everything.
 
 ## Verdict
 
-No automatic failure. The briefing told a known concern (Maeve's) apart from an assumed one (Tom's). It also refused to turn the one outstanding item into a number just to look finished.
+No automatic failure. The briefing told a known concern (Maeve's) apart from an assumed one (Roland's). It also refused to turn the one outstanding item into a number just to look finished.

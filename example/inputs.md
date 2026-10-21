@@ -11,4 +11,4 @@ An entirely fictional workplace scenario. You have proposed building an internal
 ## Who Jordan Is Presenting To
 
 - **Maeve Harcourt, VP of Engineering.** In an earlier hallway conversation, Maeve specifically mentioned she is wary of any new internal tool adding to the team's maintenance burden long term.
-- **Tom Reyes, Finance Director.** Nothing has actually been said by or about Tom regarding this proposal specifically. His title suggests budget is likely a concern, but that has not been confirmed by anything he has actually said.
+- **Roland Reyes, Finance Director.** Nothing has actually been said by or about Roland regarding this proposal specifically. His title suggests budget is likely a concern, but that has not been confirmed by anything he has actually said.
