@@ -14,7 +14,7 @@ It said exactly what would let it go ahead, not a vague "come back later."
 
 Once Sam agrees, the full briefing still has to be written from scratch. That includes anything Sam says once he's asked about what he'd need to feel comfortable presenting it, which the output said might become person-specific material.
 
-The output cites one stop condition: no advocate has agreed. A second also applies. The inputs say who is on the committee but nothing about what any of them cares about, so a person-specific briefing would mean guessing. That stays true after Sam agrees, unless someone finds out what the committee cares about.
+The output cites one stop condition: no advocate has agreed. The inputs also say who is on the committee but nothing about what any of them cares about. That isn't a reason to stop once Sam agrees: [SKILL.md](../SKILL.md) now says each person's section should say plainly that nothing is known. The briefing would be more useful if someone found out what the committee cares about first.
 
 ## Verdict
 

@@ -6,4 +6,4 @@ Go through this before your advocate uses the briefing.
 - [ ] Every point about a person rests on something known, not guessed from their job title
 - [ ] Nothing outstanding has been turned into a settled fact to make the case look finished
 - [ ] Every likely question has an honest answer, including "not yet confirmed" where that is true
-- [ ] Nothing is addressed to the people your advocate is presenting to; it's all for your advocate to use in their own words
+- [ ] Nothing is written as though it came from you; any message is for your advocate to send in their own name
