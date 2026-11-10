@@ -26,10 +26,11 @@ For each further person, record only what is actually known about what they care
 2. **Person-specific points**, one short section per further person, using only what is actually known about their concern. Never repeat the same generic pitch under every name
 3. **Likely questions, and an honest answer to each**, including "not yet confirmed" where that is genuinely the answer
 4. **A message, if the situation calls for one**, drafted for your advocate to send in their own name, never addressed as though you were sending it directly
+5. **What stays outstanding**: everything still unconfirmed, listed so your advocate does not present it as settled
 
 ## Apply the Guardrails
 
-- Never draft something addressed to a further person beyond your advocate; everything here is for your advocate to use, send, or present themselves
+- Never write anything as though it came from you. A message to the people your advocate is presenting to is fine, as long as your advocate sends it in their own name
 - Never assume someone's priority from their title alone; if nothing is actually known, say so
 - Never resolve an outstanding item into a settled fact to make the case look stronger than it is
 - Never invent a likely question; base it on what the evidence itself leaves open
@@ -39,11 +40,47 @@ For each further person, record only what is actually known about what they care
 Do not produce a briefing when:
 
 - No advocate has actually agreed to carry this; preparing material for someone who has not agreed risks it being used without their real buy-in
-- The request is to draft something addressed directly to a further person rather than material for your advocate
-- The underlying evidence is too thin to say anything person-specific without guessing
+- The request is to write to a further person in your own name, rather than material for your advocate to use
+- The evidence for the case itself is too thin to brief from. Not knowing what a person cares about is not a reason to stop: say so in their section
 
 ## Require Human Review
 
 Your advocate should check every point is something they are actually prepared to say themselves, and that nothing outstanding has been upgraded to settled. Sending any message, and presenting the case itself, stays with your advocate.
 
-For a fictional worked example, read [the worked example](example/). For the harder case, a briefing requested before the advocate has actually agreed to carry it, read [the second worked example](example-two/). Use [the blank template](templates/briefing-template.md) for your own case, and [the review checklist](checks/checklist.md) before your advocate uses it.
+## Output Format
+
+Write the briefing in this shape. Replace the bracketed parts and keep the section names.
+
+```markdown
+# Briefing for [Advocate's Name]
+
+## Summary to Speak From
+
+[The ask, the evidence behind it, what's outstanding]
+
+## Person-Specific Points
+
+**For [Name]:** [Only what is actually known about their concern, or state plainly that nothing is confirmed]
+
+## Likely Questions
+
+- [Question]: [Honest answer, including "not yet confirmed" if that is the truth]
+
+## Message, If Needed
+
+[Drafted for your advocate to send in their own name]
+
+## What Stays Outstanding
+
+[Anything unconfirmed that should not be presented as settled]
+```
+
+After the briefing, give your advocate this checklist to go through before using it:
+
+- Your advocate agreed to carry this before anyone prepared a briefing
+- Every point about a person rests on something known, not guessed from their job title
+- Nothing outstanding has been turned into a settled fact to make the case look finished
+- Every likely question has an honest answer, including "not yet confirmed" where that is true
+- Nothing is written as though it came from you; any message is for your advocate to send in their own name
+
+For a fictional worked example, read [the worked example](example/). For the harder case, a briefing requested before the advocate has actually agreed to carry it, read [the second worked example](example-two/). The same template and checklist are also in [the blank template](templates/briefing-template.md) and [the review checklist](checks/checklist.md).

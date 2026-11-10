@@ -32,7 +32,7 @@ You don't need to install anything or write any code to try it once.
 
 ## Before You Use It
 
-This writes the briefing. Your advocate still has to be comfortable saying everything in it. Sending any message, and presenting the case, stays with them. I haven't tested this skill yet, and the repository records no run of it on a real case. The two worked examples are illustrations.
+This writes the briefing. Your advocate still has to be comfortable saying everything in it. Sending any message, and presenting the case, stays with them. The template and checklist are written into the skill, because two tests on made-up cases found the AI ignored them when they were only linked ([first test](evidence/skill-fix-test/results.md), [second test](evidence/skill-fix-retest/results.md)). The repository records no run of the skill on a real case, and the two worked examples are illustrations.
 
 ## Feedback
 

@@ -20,7 +20,7 @@ The inputs say nothing about how the tool would be maintained, so Jordan has no 
 
 The summary states the ask as moving the tool from prototype to something the whole team can use. The inputs only say you proposed building it, so that wording is the output's, not yours. Check it's the ask you want made.
 
-The draft message opens "Hi both", so it's written to Maeve and Roland for Jordan to send. [SKILL.md](../SKILL.md) asks for a message "for your advocate to send in their own name", and also says never to draft something addressed to a further person. [The checklist](../checks/checklist.md) repeats the second. The output follows the first, so the two instructions pull against each other.
+The draft message opens "Hi both", so it's written to Maeve and Roland for Jordan to send. When this example was written, [SKILL.md](../SKILL.md) asked for a message "for your advocate to send in their own name" but also said never to draft something addressed to a further person, so the two instructions pulled against each other. The skill now says a message to them is fine as long as Jordan sends it in their own name, which is what this output does ([the test](../evidence/skill-fix-retest/results.md)).
 
 If Roland raises a specific concern in the meeting, this briefing can't have foreseen it. Jordan will have to handle it on the spot, and shouldn't expect the document to cover everything.
 
