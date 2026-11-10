@@ -1,0 +1,67 @@
+# Briefing for Wilhelmina Brackenbury
+
+## Summary to Speak From
+
+The ask: a four-week trial of a new shift-scheduling tool for the support team, free and with no commitment to buy.
+
+Confirmed:
+- The vendor has confirmed in writing that the four-week trial is free, with no commitment to buy.
+- A data protection review of the tool has been requested. It has started but is not finished.
+
+Not yet confirmed:
+- Building the rota by hand takes the two support leads about three hours a week between them. This is their own estimate. Nobody has timed it.
+
+The points most likely to matter on Thursday: the trial costs nothing and commits to nothing, so no new tool is added unless it is later bought. That bears on Caspar's stated wish for fewer tools, but present it as the trial's terms, not as proof he will be satisfied. Say plainly that the data protection review is still open, and do not present the three-hour figure as measured.
+
+## Person-Specific Points
+
+**For Caspar Ferrand (Head of Operations):** At last month's leadership meeting he said he wants fewer tools in the business, not more. That is the only thing known about his view. Wilhelmina can state the trial's terms (free, no commitment) as fact. Nothing is known about whether he sees the scheduling problem as worth a tool at all.
+
+**For Nerys Tallent (HR Business Partner):** Nothing is known about her view. Her role is not evidence of what she thinks, and nothing says the data protection review is hers to sign off. Wilhelmina should ask her what she would need to see, not assume.
+
+**For Solveig Mbatha (Operations Finance Lead):** Nothing is known about her view. The only cost fact so far is that the trial is free. The time saving is an unmeasured estimate, not a money saving, so do not present it as one.
+
+## Likely Questions
+
+- **Does the trial cost anything?** No. The vendor has confirmed in writing that it is free, with no commitment to buy.
+- **Does this add a tool to the business?** Not through the trial itself. Whether it is bought afterwards has not been decided.
+- **Has the tool been checked for data protection?** Not yet. A review has been requested and has started, but it is not finished.
+- **How much time will it save?** The two support leads estimate about three hours a week building the rota by hand. Nobody has timed it, so this is an estimate. The trial could show whether the saving is real, but only if someone times the work during it.
+- **Have HR or Finance agreed to this?** Not known. Do not say they have.
+
+## Message, If Needed
+
+Subject: Four-week trial of a shift-scheduling tool, for Thursday
+
+Hi Caspar, Nerys and Solveig,
+
+Ahead of Thursday's operations leadership meeting, I want to flag a request I will be raising from the support team: a four-week trial of a shift-scheduling tool.
+
+Where things stand:
+- The vendor has confirmed in writing that the trial is free, with no commitment to buy.
+- Building the rota by hand takes the two support leads about three hours a week between them. This is their estimate; it has not been timed.
+- A data protection review of the tool has started but is not finished.
+
+I would like to ask for the trial to go ahead. Nerys, I would also like to know what you would need to see from the data protection review before it could.
+
+Happy to talk any of this through before Thursday.
+
+Wilhelmina
+
+## What Stays Outstanding
+
+- The data protection review: started, not finished. Do not describe the tool as cleared.
+- The three hours a week: an estimate from the two leads, not a timed measurement.
+- Whether the tool is bought after the trial: no decision and no commitment.
+- Nerys Tallent's and Solveig Mbatha's views: nothing known.
+- Whether Caspar's fewer-tools concern applies to a free trial: not known.
+
+---
+
+Checklist for Wilhelmina before using this:
+
+- You agreed to carry this to Thursday's meeting before anyone prepared the briefing
+- Every point about a person rests on something known, not guessed from their job title
+- Nothing outstanding has been turned into a settled fact to make the case look finished
+- Every likely question has an honest answer, including "not yet confirmed" where that is true
+- Nothing is written as though it came from the requester; the message is for you to send in your own name

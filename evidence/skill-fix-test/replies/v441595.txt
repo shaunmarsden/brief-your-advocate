@@ -1,0 +1,86 @@
+Here's the briefing for Wilhelmina, plus a note for her to send in her own name. Before she uses either, please check two things I've had to assume. They're marked [CHECK] below.
+
+1. **The ask.** I've written it as approval for the trial *once the data protection review is finished*. You haven't said whether you want the trial to start before the review ends. Given the review is still running, a conditional ask is the honest version. If you meant something else, change it.
+2. **Whether the tool replaces anything.** Caspar's known concern is about having more tools. Nothing you've given me says whether this tool would replace an existing one, such as a spreadsheet or another system. If it does, that's the strongest point for him. If you don't know, Wilhelmina should say she doesn't know. I haven't claimed either way.
+
+---
+
+# Briefing for Wilhelmina: shift-scheduling tool trial
+
+## What to say (for you to talk from, not to hand out)
+
+**The ask:** Approval for the support team to run a free four-week trial of a new shift-scheduling tool, starting only once the data protection review is finished. [CHECK]
+
+**What's confirmed:**
+- The vendor has confirmed in writing that the trial is free, with no commitment to buy.
+
+**What isn't confirmed yet:**
+- **The time saving.** The two support leads estimate that building the rota by hand takes them about three hours a week between them. That's their own estimate. Nobody has timed it. Call it an estimate, not a measured figure.
+- **Data protection.** A data protection review has started but isn't finished. There is no outcome to report yet.
+
+**The point most likely to matter in this room:** Caspar said at last month's meeting that he wants fewer tools in the business, not more. Expect that to come up first. The honest answer is that the trial adds a tool for four weeks, costs nothing, and commits us to nothing. Whether we keep it afterwards is a separate decision. Whether it replaces anything is [CHECK].
+
+**What the trial could tell us that we don't know now:** whether the three-hour estimate holds up, and whether the tool actually saves time. One possible use of the four weeks is to time the manual rota alongside it. Only promise that if the support leads agree to do it.
+
+## Person by person
+
+**Caspar Ferrand, Head of Operations**
+- Known concern: he wants fewer tools, not more (he said this at last month's leadership meeting).
+- Address it directly rather than waiting for him to raise it: the trial is time-limited, free and carries no commitment. If it doesn't earn its place, it goes.
+- Only say it replaces something if you've confirmed it does. [CHECK]
+
+**Nerys Tallent, HR Business Partner**
+- Nothing is known about her view on this. Don't guess what she'll care about from her job title.
+- If she asks questions, answer them with the facts above. In particular, be clear that the data protection review hasn't finished.
+
+**Solveig Mbatha, Operations Finance Lead**
+- Nothing is known about her view on this either. Don't guess from her title.
+- The confirmed fact you can give her is that the trial is free, with no commitment to buy, in writing from the vendor. What the tool would cost after the trial isn't in the evidence we have. See the questions below.
+
+## Questions the evidence leaves open, with honest answers
+
+| Question | Honest answer |
+|---|---|
+| Is this another tool on top of what we already have? | For the trial period, yes. Whether it would replace anything afterwards: [CHECK]. If unknown, say "not yet confirmed". |
+| Is the three hours a week real? | It's the support leads' own estimate. Nobody has timed it. |
+| Has data protection signed it off? | No. The review has started but isn't finished. |
+| What happens to our data if we stop after four weeks? | Not yet confirmed. That's for the data protection review, or the vendor, to answer. |
+| What would it cost if we kept it? | Not yet confirmed. The only confirmed cost fact is that the trial itself is free with no commitment. |
+| How will we know whether the trial worked? | Not yet agreed. You could propose comparing the time spent on the rota during the trial with the leads' estimate. |
+
+If you're asked something that isn't here, it's fine to say you'll find out and come back to them.
+
+---
+
+# Note for Wilhelmina to send before Thursday
+
+(Written for Wilhelmina to send in her own name. Edit it so it sounds like her.)
+
+**Subject:** Thursday: proposal for a four-week scheduling tool trial (support team)
+
+Hi Caspar, Nerys and Solveig,
+
+On Thursday I'd like to raise a proposal from the support team. They want to run a four-week trial of a shift-scheduling tool. Here's a short summary so you have it in advance.
+
+**The ask:** approval for a four-week trial, starting once the data protection review of the tool is finished.
+
+**What's confirmed:** the vendor has confirmed in writing that the trial is free, with no commitment to buy.
+
+**What isn't confirmed yet:**
+- The support leads estimate that building the rota by hand takes them about three hours a week between them. That's their estimate; it hasn't been timed.
+- A data protection review has started but isn't finished.
+
+Caspar, I know you've said you want fewer tools in the business, not more, and I'll come prepared to talk about that directly. [CHECK: add one line here only if you've confirmed the tool replaces something.]
+
+Happy to take questions before Thursday if that's useful.
+
+Wilhelmina
+
+---
+
+## Before Wilhelmina uses any of this
+
+- Resolve both [CHECK] items, or leave them as "not yet confirmed".
+- Wilhelmina should read every point and only keep the ones she's actually prepared to say herself.
+- Make sure the three-hour figure is still called an estimate, and the data protection review is still called unfinished, everywhere they appear.
+- Sending the note and presenting on Thursday are up to Wilhelmina. I haven't contacted anyone.
