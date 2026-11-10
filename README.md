@@ -24,16 +24,6 @@ Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemin
 - Likely questions with honest answers, including "not yet confirmed" where that's the truth
 - A message for your advocate to send in their own name
 
-<details>
-<summary><strong>See exactly what it produces</strong></summary>
-
-1. A summary your advocate can speak from, not a document to hand over unread
-2. Points for each person they're presenting to, only where you know what that person is worried about
-3. Likely questions with honest answers, including "not yet confirmed" where that's true
-4. A message for your advocate to send, never written as though it came from you
-
-</details>
-
 In [the worked example](example/), a colleague presents a project proposal to two people. One has a concern on record. For the other, all we know is their job title. [The second worked example](example-two/) is harder: the request for a briefing comes before the advocate has agreed to carry it.
 
 Use [the blank template](templates/briefing-template.md) for your own case, and [the review checklist](checks/checklist.md) before your advocate uses it.
@@ -42,7 +32,7 @@ You don't need to install anything or write any code to try it once.
 
 ## Before You Use It
 
-This writes the briefing. Your advocate still has to be comfortable saying everything in it. Sending any message, and presenting the case, stays with them.
+This writes the briefing. Your advocate still has to be comfortable saying everything in it. Sending any message, and presenting the case, stays with them. I haven't tested this skill yet, and the repository records no run of it on a real case. The two worked examples are illustrations.
 
 ## Feedback
 
