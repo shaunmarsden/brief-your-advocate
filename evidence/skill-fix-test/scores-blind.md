@@ -19,6 +19,9 @@ Scored on 10th November 2026 by reading each reply under its random name. I had 
 
 ## Seen but not scored
 
-- Four Jordan replies call Jordan "he" or "his", which the case doesn't say.
-- Four Sam replies say the unknown committee concerns would also block the briefing once Sam agrees. Two say the opposite: that each person's section would simply say nothing is known. This is the "too thin" question the Edited version changes. It isn't a scored measure, but I'll report which version said which.
+I first wrote the two counts below from memory and got them wrong. I checked them against the replies and corrected them before opening the mapping.
+
+
+- Two Jordan replies (v439974, v976263) call Jordan "he" or "his", which the case doesn't say.
+- Two Sam replies (v456533, v212120) say the unknown committee concerns would also block a person-specific briefing once Sam agrees. Three (v103449, v169141, v635390) say the opposite: each person's section would simply say nothing is known. The other three don't say. This is the "too thin" question the Edited version changes. It isn't a scored measure, but I'll report which version said which.
 - One Wilhelmina reply added a promise to the note, that she would "only come back with a proposal if the trial showed a clear case", and flagged it for her to keep or cut.
