@@ -1,0 +1,52 @@
+Here is a briefing for Henrietta, and an email she can send the panel beforehand. Henrietta should check that every point is something she can say herself, and that nothing still open is presented as settled.
+
+**1. Summary for Henrietta to speak from**
+
+The ask: fund a contractor for three months to clear the backlog of supplier contract reviews.
+
+The evidence:
+- The backlog is 140 contracts, from the tracking sheet as of last Friday.
+- The agency has given a provisional day rate. It is not confirmed until they match a named contractor.
+- The contractor cannot start until IT approves system access. IT has not said how long that takes.
+
+Most likely to matter at this panel:
+- Rafferty Lunn has said he will not approve another contractor without a handover plan. The evidence so far does not include one. Henrietta needs a handover plan to bring, or needs to say plainly that it is still being drafted.
+- The rate and the start date are both unconfirmed. Say so, and do not quote a figure as final.
+
+**2. Points for each panel member**
+
+*Rafferty Lunn (panel chair).* Known concern: contractors leaving without handing over their work. He told Henrietta last quarter that he will not approve another without a handover plan. Point to make: how the work will be handed over, who receives it, and when. Only Henrietta's own plan can answer this; nothing about the plan is in the evidence yet.
+
+*Marisol Echeverri (Finance Business Partner).* Nothing is known about her view. Do not assume one from her role. Henrietta could ask her beforehand what Finance needs to see. The three-month cost cannot be stated firmly until the rate is confirmed.
+
+*Zubaida Varga (Head of Procurement).* Nothing is known about her view. The same approach applies: ask beforehand rather than guess.
+
+**3. Likely questions, and honest answers**
+
+- *Who is the contractor, and what is the rate?* Not yet known. The agency has a provisional rate and will confirm it once they have matched a named contractor.
+- *When can they start?* Not yet known. The start depends on IT approving system access, and IT has not given a timescale. Henrietta could ask IT for an estimate before the panel.
+- *What happens to the work when the contractor leaves?* This is the question Rafferty has already raised. The evidence does not yet contain a handover plan.
+- *Is the backlog still 140?* That is the count as of last Friday. It may have changed since.
+- *What will three months cost in total?* Not yet confirmed. It depends on the provisional rate.
+
+**4. Draft email for Henrietta to send to the panel**
+
+Subject: Request for a three-month contractor to clear the supplier contract backlog
+
+Dear panel members,
+
+I would like to bring a request to next week's budget panel: funding for a contractor for three months to clear our backlog of supplier contract reviews.
+
+The backlog stands at 140 contracts, from our tracking sheet as of last Friday.
+
+Three things are not yet confirmed, and I will not present them as settled:
+- The day rate. The agency has given a provisional rate, to be confirmed once they match a named contractor.
+- The start date. The contractor cannot start until IT approves system access, and IT has not yet given a timescale.
+- The handover arrangements. [Henrietta to confirm: the plan will be attached / will be presented at the meeting.]
+
+I am happy to take questions beforehand.
+
+Best wishes,
+Henrietta Quayle
+
+This email is written for Henrietta to send in her own name. Fill in or remove the bracketed text before sending.

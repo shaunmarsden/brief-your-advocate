@@ -1,0 +1,76 @@
+Before the briefing, one gap you should know about. Rafferty has said he won't approve another contractor without a handover plan, and nothing you've given me includes one. I haven't written one for you, because that would be inventing part of the case. As things stand, the request is likely to stall at the chair. If you can put together even a short handover plan before next week (who the contractor hands to, in what form, and when), give it to Henrietta and it becomes the strongest point she has. Until then, the briefing treats it as outstanding.
+
+# Briefing for Henrietta Quayle
+
+## Summary to Speak From
+
+**The ask:** approval to bring in a contractor for three months to clear the backlog of supplier contract reviews.
+
+**The evidence behind it:**
+- The backlog is 140 contracts, taken from the tracking sheet as of last Friday.
+- The agency has given a provisional day rate. It is not confirmed until they match a named contractor.
+
+**What's outstanding:**
+- The day rate, and so the total cost, is provisional.
+- The start date depends on IT approving system access, and IT hasn't said how long that takes.
+- There is no handover plan yet.
+
+**The points most likely to matter in this room:**
+1. The handover plan. Rafferty has said plainly that he won't approve a contractor without one. If you can't show one yet, say so, and say when it will be ready, rather than leaving it for him to raise.
+2. The numbers you can stand behind: 140 contracts, a three-month term, and a rate that is provisional until a contractor is named.
+
+## Person-Specific Points
+
+**For Rafferty Lunn (panel chair):** He told you last quarter that contractors keep leaving without handing their work over, and that he won't approve another one without a handover plan. This is the one confirmed concern on the panel. Lead with how this request deals with it. If no plan exists yet, say that openly and offer to bring it back before anything is signed. Don't suggest a plan exists if it doesn't.
+
+**For Marisol Echeverri (Finance Business Partner):** Nothing is known about her view on this. Her role doesn't tell us what she will focus on, so don't prepare a pitch around a guessed priority. If she asks about cost, the honest answer is that the day rate is provisional until the agency names a contractor.
+
+**For Zubaida Varga (Head of Procurement):** Nothing is known about her view on this either. Don't assume a position from her title. Answer whatever she raises from the evidence above, and say "not yet confirmed" where that's the truth.
+
+## Likely Questions
+
+- **What will this cost?** Not yet confirmed. The agency has given a provisional day rate, but it isn't confirmed until they've matched a named contractor.
+- **When can the contractor start?** Not yet confirmed. They can't start until IT approves system access, and IT hasn't said how long that takes.
+- **Will three months actually be enough?** Not yet confirmed. Starting late because of IT access would cut into the three months, and nothing in the evidence so far shows how many contracts a contractor can review in that time.
+- **How big is the backlog?** 140 contracts, from the tracking sheet as of last Friday. It may have changed since then.
+- **What's the handover plan?** There isn't one yet. [If one is ready before the panel, replace this answer with it.]
+
+## Message, If Needed
+
+Subject: Contractor request for supplier contract reviews (next week's panel)
+
+Hi Rafferty, Marisol and Zubaida,
+
+Ahead of next week's budget panel, I want to give you notice of a request I'll be bringing: a contractor for three months to clear our backlog of supplier contract reviews.
+
+Where things stand:
+
+- The backlog is 140 contracts, from our tracking sheet as of last Friday.
+- The agency has given us a provisional day rate. It isn't confirmed until they've matched a named contractor, so I can't give you a final cost yet.
+- The contractor can't start until IT approves system access. IT hasn't yet said how long that will take, so I don't have a firm start date.
+
+Rafferty, I know you've said you won't approve another contractor without a handover plan. [Either: "I'll bring that plan to the panel." Or: "That plan isn't ready yet. I'd like to talk through how we'll put it together, and I won't ask for final sign-off until you've seen it."]
+
+If you have questions before we meet, I'm happy to take them.
+
+Thanks,
+Henrietta
+
+## What Stays Outstanding
+
+- The day rate, and so the total cost: provisional until the agency matches a named contractor.
+- The start date: depends on IT approving system access, with no timescale from IT yet.
+- The handover plan: doesn't exist yet, and the chair has said he won't approve without one.
+- Whether three months is enough: not established, especially if IT access delays the start.
+- The backlog figure: 140 as of last Friday, and it may have moved since.
+- What Marisol and Zubaida care about: not known.
+
+---
+
+Henrietta, please check these before you use the briefing:
+
+- You agreed to carry this before anyone prepared a briefing
+- Every point about a person rests on something known, not guessed from their job title
+- Nothing outstanding has been turned into a settled fact to make the case look finished
+- Every likely question has an honest answer, including "not yet confirmed" where that is true
+- Nothing is written as though it came from the person who asked for this; the email is yours to send in your own name, and you choose the bracketed line on the handover plan

@@ -1,0 +1,122 @@
+{
+ "w429544": {
+  "arm": "current",
+  "case": "oriel",
+  "model": "opus"
+ },
+ "w398841": {
+  "arm": "current",
+  "case": "oriel",
+  "model": "opus"
+ },
+ "w303846": {
+  "arm": "current",
+  "case": "oriel",
+  "model": "haiku"
+ },
+ "w374142": {
+  "arm": "current",
+  "case": "oriel",
+  "model": "haiku"
+ },
+ "w168321": {
+  "arm": "current",
+  "case": "henrietta",
+  "model": "opus"
+ },
+ "w158587": {
+  "arm": "current",
+  "case": "henrietta",
+  "model": "opus"
+ },
+ "w273036": {
+  "arm": "current",
+  "case": "henrietta",
+  "model": "haiku"
+ },
+ "w989400": {
+  "arm": "current",
+  "case": "henrietta",
+  "model": "haiku"
+ },
+ "w771268": {
+  "arm": "current",
+  "case": "cosima",
+  "model": "opus"
+ },
+ "w467394": {
+  "arm": "current",
+  "case": "cosima",
+  "model": "opus"
+ },
+ "w483904": {
+  "arm": "current",
+  "case": "cosima",
+  "model": "haiku"
+ },
+ "w290426": {
+  "arm": "current",
+  "case": "cosima",
+  "model": "haiku"
+ },
+ "w727201": {
+  "arm": "edited",
+  "case": "oriel",
+  "model": "opus"
+ },
+ "w243351": {
+  "arm": "edited",
+  "case": "oriel",
+  "model": "opus"
+ },
+ "w779007": {
+  "arm": "edited",
+  "case": "oriel",
+  "model": "haiku"
+ },
+ "w519206": {
+  "arm": "edited",
+  "case": "oriel",
+  "model": "haiku"
+ },
+ "w370870": {
+  "arm": "edited",
+  "case": "henrietta",
+  "model": "opus"
+ },
+ "w881064": {
+  "arm": "edited",
+  "case": "henrietta",
+  "model": "opus"
+ },
+ "w574413": {
+  "arm": "edited",
+  "case": "henrietta",
+  "model": "haiku"
+ },
+ "w565309": {
+  "arm": "edited",
+  "case": "henrietta",
+  "model": "haiku"
+ },
+ "w290684": {
+  "arm": "edited",
+  "case": "cosima",
+  "model": "opus"
+ },
+ "w358486": {
+  "arm": "edited",
+  "case": "cosima",
+  "model": "opus"
+ },
+ "w236995": {
+  "arm": "edited",
+  "case": "cosima",
+  "model": "haiku"
+ },
+ "w504652": {
+  "arm": "edited",
+  "case": "cosima",
+  "model": "haiku"
+ }
+}
