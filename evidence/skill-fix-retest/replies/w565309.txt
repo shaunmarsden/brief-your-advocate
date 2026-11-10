@@ -1,0 +1,68 @@
+# Briefing for Henrietta Quayle
+
+## Summary to Speak From
+
+**The ask:** Bring in one contractor for three months to clear the backlog of supplier contract reviews.
+
+**The evidence behind it:**
+- The backlog is 140 contracts, from the tracking sheet as of last Friday.
+- The agency has given a provisional day rate. It is not confirmed until they have matched a named contractor.
+- The contractor cannot start until IT approves system access. IT has not said how long that takes.
+
+**Most likely to matter at the panel:**
+- Rafferty Lunn has said he will not approve another contractor without a handover plan. Nothing in the evidence yet shows what that plan would be, so it needs to be built before the panel meets.
+- The cost and start date are both open. Say so plainly rather than offering a figure or a date.
+
+## Person-Specific Points
+
+**For Rafferty Lunn (panel chair):** He told you last quarter that contractors keep leaving without handing their work over, and he will not approve another without a handover plan. This is the only concern we know about, and it is his own stated condition. Before the panel, you need a handover plan you can describe: who receives the work, how the reviews are documented, and how the contractor's end date is handled. Nothing like that is in the evidence yet.
+
+**For Marisol Echeverri (Finance Business Partner):** Nothing is known about her view on this. Do not assume she cares about cost, or anything else, because of her role. If she asks about cost, the honest answer is that the day rate is provisional until a named contractor is matched.
+
+**For Zubaida Varga (Head of Procurement):** Nothing is known about her view on this. Do not assume she cares about supplier contracts or the procurement process because of her role. If she asks how the work fits with procurement's own process, that is a question to answer on the day, not a point to prepare as settled.
+
+## Likely Questions
+
+- **How much will this cost?** The day rate is provisional. It is not confirmed until the agency matches a named contractor. The total for three months depends on that rate.
+- **Who is the contractor?** Not yet known. The agency has not matched a named person.
+- **When can they start?** Not yet confirmed. The start depends on IT approving system access, and IT has not said how long that takes.
+- **Will the backlog be cleared in three months?** Not yet confirmed. The evidence gives the backlog size (140 contracts) but not the review rate, so there is no basis yet for saying three months is enough.
+- **What happens when the contractor leaves, and how is their work handed over?** Not yet confirmed. No handover plan exists in the evidence. This is the question most likely to be asked given the chair's stated condition.
+- **Is the backlog figure current?** It is from the tracking sheet as of last Friday, so it may have changed since.
+
+## Message, If Needed
+
+Drafted for you to send in your own name, before the panel meets. Please check it against what you can actually confirm before sending.
+
+> Subject: Contractor request for the supplier contract review backlog
+>
+> Dear Rafferty, Marisol and Zubaida,
+>
+> Ahead of next week's budget panel, I want to set out the request for a contractor for three months to clear the supplier contract review backlog.
+>
+> The backlog stands at 140 contracts, from our tracking sheet as of last Friday. The agency has given a provisional day rate, which will not be confirmed until they have matched a named contractor. The contractor cannot start until IT approves system access, and IT has not yet confirmed how long that will take.
+>
+> Rafferty, you asked for a handover plan before approving another contractor. I will bring the plan to the panel, and I will be clear about which parts are still to be confirmed.
+>
+> I am happy to take questions beforehand.
+>
+> Henrietta
+
+## What Stays Outstanding
+
+- The day rate. It is provisional and depends on the agency matching a named contractor.
+- The contractor's identity and start date. Both depend on that match and on IT approving system access.
+- IT's timeline for access approval. IT has not said how long it takes.
+- The handover plan the chair requires. No plan exists in the evidence yet.
+- Whether three months is enough to clear 140 contracts. No review rate is in the evidence.
+- Marisol Echeverri's and Zubaida Varga's views. Nothing is known about either.
+
+---
+
+**Checklist before using this briefing:**
+
+- You agreed to carry this case before anyone prepared the briefing
+- Every point about a person rests on something known, not on their job title
+- Nothing outstanding has been turned into a settled fact to make the case look finished
+- Every likely question has an honest answer, including "not yet confirmed" where that is true
+- Nothing is written as though it came from anyone else; the email is for you to send in your own name

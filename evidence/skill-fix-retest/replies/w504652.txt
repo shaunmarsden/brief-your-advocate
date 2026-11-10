@@ -1,0 +1,9 @@
+I can't write Cosima's briefing yet. A briefing is only useful once she has agreed to carry the proposal to the governance group, and right now she hasn't. Preparing material for someone who hasn't agreed risks it being used without her real buy-in, and it could get presented before she's ready to stand behind it.
+
+Here's what I can do now, before Monday:
+
+- Pull together the evidence in a form you can check: the 4,000-file count, IT's confirmation that the new system can take them, and a note of when the storage report was run. If that report is more than a few months old, it's worth asking IT for a current figure before anyone presents it.
+- List the questions the governance group is likely to ask about retiring a shared drive, such as migration timing, access permissions, what happens to files that nobody has opened in years, and who signs off the cutover. Mark which ones you can answer today and which you can't.
+- Note what you know about each of the four governance group members, and separate what they have actually said or done from what you're inferring from their role.
+
+Once Cosima says yes, tell me, and I'll write the full briefing from those notes. It will keep the evidence and what's still outstanding clearly separate, so she doesn't present anything unconfirmed as settled.

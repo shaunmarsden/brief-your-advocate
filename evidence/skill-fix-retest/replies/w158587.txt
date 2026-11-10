@@ -1,0 +1,91 @@
+Here's the briefing for Henrietta, with the email at the end. One gap needs your attention before anything goes to the panel. Rafferty has said he won't approve another contractor without a handover plan, and nothing in what you've given me is a handover plan. I haven't made one up. Without it, the person whose view we actually know has already said no. Fixing that is the most useful thing you can do before next week. I've marked the places where it goes.
+
+---
+
+# Briefing for Henrietta Quayle: contractor request, budget panel
+
+## 1. Summary to speak from
+
+**The ask:** approval to bring in a contractor for three months to clear the backlog of supplier contract reviews.
+
+**The evidence:**
+- **Confirmed:** the backlog is 140 contracts. This comes from the team's tracking sheet as of last Friday.
+- **Provisional:** the agency has quoted a day rate, but it isn't confirmed until they've matched a named contractor. [Add the provisional rate here, labelled as provisional.]
+- **Unknown:** the start date. The contractor can't start until IT approves system access, and IT hasn't said how long that takes.
+
+**The points most likely to matter in this room:**
+1. **Handover.** The chair has already said he won't approve a contractor without a handover plan, so this has to be answered head-on, not left for questions. [Handover plan to be added before the panel. It doesn't exist yet.]
+2. **Being straight about what isn't settled.** The cost is provisional and the start date depends on IT. Saying that up front is better than having the panel find it.
+
+## 2. Person by person
+
+**Rafferty Lunn, panel chair**
+- What we know: he told you last quarter that contractors keep leaving without handing their work over, and that he won't approve another one without a handover plan.
+- What to say: lead with the handover plan once it exists. Be specific about what is handed over, to whom, and when.
+- If the plan isn't ready by the panel: tell him so plainly rather than offering a vague assurance. He has already said a plan is his condition, so a vague promise is unlikely to satisfy him. Whether to go ahead without one, or ask to bring the request back once it's written, is your call.
+
+**Marisol Echeverri, Finance Business Partner**
+- What we know: nothing about her view on this.
+- What to say: there are no tailored points to give, because her title doesn't tell us what she will focus on. Give her the same facts as everyone else, and be clear that the day rate is provisional and that the total cost depends on a rate that isn't confirmed yet.
+- If you get the chance to ask her about it before the panel, that would tell you more than anything here.
+
+**Zubaida Varga, Head of Procurement**
+- What we know: nothing about her view on this.
+- What to say: the same as for Marisol. Nothing specific is known, so I haven't guessed at what she'll care about. The same facts apply, with the same honesty about what's outstanding.
+
+## 3. Likely questions and honest answers
+
+These come from the gaps the evidence leaves open, not from guesses about the people asking.
+
+**"How will the work be handed over when the contractor leaves?"**
+[Answer from the handover plan, once written.] Until it is: "We don't have a handover plan yet. It's being written." Don't promise anything that isn't in an actual plan.
+
+**"What will this cost?"**
+"The agency has given a provisional day rate of [rate], but it isn't confirmed until they've matched a named contractor. So the total for three months is an estimate, not a confirmed figure."
+
+**"When would they start?"**
+"Not yet confirmed. They need IT to approve system access first, and IT hasn't told us how long that takes."
+
+**"Does the three months start from approval or from when access is granted?"**
+This follows from the IT dependency. [You'll need to decide this with Henrietta. The evidence doesn't answer it.] If it's undecided: "That depends on IT timing, which we don't have yet."
+
+**"Is 140 still the right number?"**
+"That's from the tracking sheet as of last Friday." [If you can refresh the count before the panel, give Henrietta the newer figure and its date.]
+
+**"Will three months be enough to clear 140 contracts?"**
+Nothing in the evidence says how many contracts a contractor can review in three months. [If you have a basis for that, such as past throughput, add it here. If not, the honest answer is that it's the team's estimate, and Henrietta should say so.]
+
+## 4. Email for Henrietta to send the panel beforehand
+
+This is written for Henrietta to send in her own name, so she should change anything that doesn't sound like her. The square brackets need filling in or removing before it goes.
+
+---
+
+**Subject:** Contractor request for supplier contract review backlog, for next week's panel
+
+Dear Rafferty, Marisol and Zubaida,
+
+Ahead of next week's panel, here's a short summary of a request I'll be bringing from my department.
+
+**The request:** a contractor for three months to clear our backlog of supplier contract reviews.
+
+**Where things stand:**
+- The backlog is 140 contracts, from our tracking sheet as of last Friday.
+- The agency has given us a provisional day rate of [rate]. They've told us it isn't confirmed until they've matched a named contractor, so please treat any cost figure as provisional for now.
+- The start date isn't fixed. The contractor will need system access approved by IT first, and we're waiting to hear from IT how long that takes.
+
+**Handover:** [One or two sentences summarising the handover plan, with the full plan attached. Don't send this email until that's in place, or change this line to say plainly that the plan is being written and when it will be ready.]
+
+I'm happy to take questions at the panel, or beforehand if that's easier.
+
+Best regards,
+Henrietta
+
+---
+
+## Before Henrietta uses any of this
+
+- **She should check every point is something she's prepared to say herself.** She's the one in the room, so anything she isn't comfortable standing behind should come out or be reworded.
+- **Nothing provisional should end up sounding settled.** The day rate and the start date are both open. Look out for wording like "the cost will be" or "they'll start on", in the email and when she's speaking.
+- **Fill in or remove every bracket.** In particular, don't let the handover line go out as a placeholder.
+- **Sending the email and presenting the case are up to her.** This is material for her to use however she thinks best.

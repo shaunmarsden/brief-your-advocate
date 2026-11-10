@@ -1,0 +1,24 @@
+I'm going to hold off on writing Cosima's briefing for now. There are two reasons, and both come from the rules you pasted.
+
+**1. Cosima hasn't agreed yet.** The briefing is meant for an advocate who has already said yes. If I write it before Monday, it's built on her taking this on without knowing whether she will, or on what terms. She might say yes but only to forward it rather than present it. She might want a different angle, or she might decline. A briefing written now could be wrong for whatever she actually agrees to.
+
+**2. The evidence is too thin to say anything person-specific.** You know who the four governance members are, but nothing yet about what any of them cares about. If I wrote a section for each of them now, I'd be guessing their priorities from their roles, and that's exactly what this is meant to avoid. All four sections would end up as the same generic pitch with different names on top.
+
+**What you do have is solid but narrow:**
+- About 4,000 files on the old drive (from IT's last storage report)
+- IT has confirmed the new system can take them
+
+That covers capacity. It doesn't cover the questions a governance group may well raise, such as when the move would happen, who does it, what happens to the old drive afterwards, or how access and permissions carry over. I'm not saying they'll ask any of those. I'm saying your evidence doesn't answer them yet, so if they come up, the honest answer right now is "not yet confirmed."
+
+**What I can help with before Monday:**
+- **Planning the ask itself.** I can help you work out how to put it to Cosima: what you're asking her to do (present or forward), the short version of the proposal, and the two confirmed facts. That message is from you to her, so it's fine to draft.
+- **A list of what to find out.** If she says yes, ask her what she knows about each governance member's concerns. Ask what setting she'd be presenting in (meeting, email, agenda item) and what she'd want from you. Check too whether anything about the timing, the migration work or the old drive's future can be confirmed before she takes it in.
+
+**Once she's agreed,** send me:
+- What she agreed to do, and in what setting
+- Anything she or others have said about what each of the four members cares about (leave a gap where nothing is known; don't fill it in)
+- Any new evidence, and a list of what's still unconfirmed
+
+I'll then build the full briefing: a summary for her to speak from, short sections for each member based only on what's known, likely questions with honest answers, and a message for her to send in her own name if she needs one.
+
+Would you like me to help draft what you'll say to Cosima on Monday?
