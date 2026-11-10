@@ -1,0 +1,79 @@
+# Briefing for Wilhelmina Brackenbury
+
+## Summary to Speak From
+
+**The ask:** approval for the support team to run a four-week trial of a new shift-scheduling tool.
+
+**The evidence behind it:**
+
+- The vendor has confirmed in writing that the four-week trial is free, with no commitment to buy. This is the one fully settled point.
+- The two support leads say that building the rota by hand takes them about three hours a week between them. This is their own estimate. Nobody has timed it. A trial is a good way to find out whether the real figure is higher or lower.
+- A data protection review of the tool has been requested and has started. It is not finished.
+
+**The one or two points most likely to matter on Thursday:**
+
+1. Caspar has said publicly that he wants fewer tools in the business, not more. A new scheduling tool adds a tool. Say this plainly rather than waiting for him to raise it. The honest framing is that a free, no-commitment trial is how the team finds out whether this tool earns its place before anyone is asked to add it permanently.
+2. The data protection review is still open. You may want to decide before Thursday whether the ask is "approve the trial now" or "approve the trial to start once the data protection review is complete". I have not assumed either. That is for you and the requester to agree, as it changes what you are asking the room for.
+
+**What's outstanding:** the result of the data protection review, a measured figure for the time the rota takes, and anything about cost after the trial ends.
+
+## Person-Specific Points
+
+**For Caspar Ferrand (Head of Operations):** At last month's leadership meeting he said he wants fewer tools in the business, not more. That is the only thing known about his view. Expect him to ask why the business should take on another tool. What you can honestly say: the trial is free and carries no commitment to buy, so agreeing to it does not mean agreeing to keep the tool. What you cannot say: that the tool would replace an existing one. Nothing in the evidence shows that. The rota is currently built by hand, so if the tool were kept it would most likely be an extra tool, not a swap. Do not suggest otherwise unless the requester confirms it replaces something.
+
+**For Nerys Tallent (HR Business Partner):** Nothing is known about her view on this. Her role does not tell us what she cares about here, so this briefing does not guess. If she raises a concern on Thursday, note it so it can be answered properly afterwards rather than on the spot.
+
+**For Solveig Mbatha (Operations Finance Lead):** Nothing is known about her view on this. As with Nerys, this briefing does not guess from her title. The one settled fact you can give anyone who asks about money is that the trial itself is free with no commitment to buy, confirmed in writing by the vendor.
+
+## Likely Questions
+
+- **Is the trial really free, and are we committed to anything?** Yes. The vendor has confirmed in writing that the four-week trial is free, with no commitment to buy.
+- **How much time would this actually save?** Not yet confirmed. The two support leads estimate about three hours a week between them on the rota today, but nobody has timed it. The trial would show whether the tool saves any of that.
+- **Has data protection signed this off?** Not yet. The review has started but is not finished.
+- **Would the trial use real staff information before that review is done?** Not yet confirmed. The evidence does not say what data the trial would use. Check this with the requester before Thursday if you can.
+- **Does this replace anything we already use?** Nothing in the evidence shows that it does. The rota is built by hand today.
+- **What happens after four weeks, and what would it cost to keep?** Not yet confirmed. The evidence covers the free trial only. There is no pricing for anything beyond it.
+
+## Message, If Needed
+
+Subject: Item for Thursday: four-week trial of a shift-scheduling tool for support
+
+Hi Caspar, Nerys and Solveig,
+
+Ahead of Thursday, I'd like to raise a short item on behalf of our support team. They'd like to run a four-week trial of a new shift-scheduling tool.
+
+What we know so far:
+
+- The vendor has confirmed in writing that the trial is free, with no commitment to buy.
+- The two support leads estimate that building the rota by hand takes them about three hours a week between them. That's their own estimate and hasn't been timed. Part of the point of the trial is to get a real figure.
+- A data protection review of the tool has started but isn't finished yet.
+
+Caspar, I know you've said you want fewer tools in the business, not more, and I'll be upfront that this would add one if we kept it. A free trial with no commitment seems the right way to find out whether it's worth it before anyone is asked to decide that.
+
+What we don't know yet: the outcome of the data protection review, a measured figure for the time saved, and what the tool would cost after the trial.
+
+If you have questions before Thursday, I'm happy to pick them up.
+
+Thanks,
+Wilhelmina
+
+## What Stays Outstanding
+
+- The data protection review: started, not finished, no outcome yet
+- The time the rota takes: about three hours a week is the support leads' own estimate, not a measured figure
+- What data the trial would use, and whether it can start before the data protection review is complete
+- Whether the tool replaces anything already in use (nothing in the evidence says it does)
+- Any cost or commitment after the four-week trial
+- What Nerys and Solveig care about on this: nothing is known yet
+
+---
+
+Before you use this, Wilhelmina, please go through this checklist:
+
+- [ ] You agreed to carry this before anyone prepared a briefing
+- [ ] Every point about a person rests on something known, not guessed from their job title
+- [ ] Nothing outstanding has been turned into a settled fact to make the case look finished
+- [ ] Every likely question has an honest answer, including "not yet confirmed" where that is true
+- [ ] Nothing is written as though it came from the requester; the message is yours to send in your own name, if you choose to
+
+Please also check that every point is something you are actually prepared to say yourself. Sending the note, and presenting the case on Thursday, stay with you.

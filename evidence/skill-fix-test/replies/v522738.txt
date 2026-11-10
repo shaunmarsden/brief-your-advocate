@@ -1,0 +1,60 @@
+# Briefing for Jordan
+
+## Summary to Speak From
+
+**The ask:** Approval to build an internal tool that automates the team's manual reporting process. I have not seen the exact decision being requested. Confirm it with me before you present, so you ask for the same thing I proposed.
+
+**The evidence behind it:**
+- The manual process takes roughly six hours a week across the team. A two-week time log confirms this.
+- A working prototype exists. Two team members have tested it, and both confirm it saves about the estimated time.
+
+**What is outstanding:**
+- The hosting cost. IT is still quoting it, so there is no confirmed figure yet.
+
+**Points most likely to matter in this setting:**
+1. The time saving is measured, not just estimated: six hours a week, from a two-week log, with the prototype matching the estimate in testing by two people.
+2. The cost side is not yet known. Say so plainly and say when IT's quote is expected, rather than offering a number.
+
+## Person-Specific Points
+
+**For Maeve Harcourt (VP of Engineering):** In an earlier hallway conversation, Maeve said she is wary of any new internal tool adding to the team's maintenance burden long term. Nothing in the evidence yet answers that concern. Do not claim it is handled. If she raises it, say that the long-term ownership and upkeep of the tool has not been worked out, and that I will come back with an answer.
+
+**For Roland Reyes (Finance Director):** Nothing is known about what Roland cares about regarding this proposal. Nobody has said anything about it to me or in front of me, and his title does not tell us his priorities. Do not assume budget is his concern. If he asks about cost, answer with the outstanding hosting quote and nothing more. Otherwise, use the time-saving evidence and ask him what he would need to see to judge it.
+
+## Likely Questions
+
+- **What will it cost to run?** Not yet confirmed. IT is still quoting the hosting cost.
+- **Who maintains it over the long term?** Not yet confirmed. This has not been settled, and it is the concern Maeve raised.
+- **How much time does it actually save?** About six hours a week across the team, based on a two-week time log. The prototype was tested by two team members, who both confirmed it saves about the estimated time. Only two people have tested it so far.
+- **Has it been tested beyond the two people who tried it?** No. Testing so far is two team members on the prototype.
+
+## Message, If Needed
+
+*For Jordan to send in your own name, after checking that you are comfortable with every line.*
+
+> Hi Maeve and Roland,
+>
+> I am presenting a proposal for an internal tool that automates our manual reporting process. The manual process takes about six hours a week across the team, based on a two-week time log. A working prototype has been tested by two team members, who both confirm it saves about the estimated time.
+>
+> The hosting cost is still being quoted by IT, so I do not have a confirmed figure yet, and I will share it when I have it. I also know that long-term maintenance is a concern, and I want to make sure that is covered before we go further.
+>
+> Could we find 20 minutes to go through it?
+>
+> [Your name]
+
+## What Stays Outstanding
+
+- The hosting cost. IT is still quoting it. Do not give a figure.
+- Long-term maintenance ownership. Not worked out. Maeve has raised it as a concern.
+- Wider testing. Only two team members have tried the prototype.
+- Roland's view on the proposal. Nothing is known yet, and no budget concern has been confirmed.
+
+---
+
+**Checklist before you use this briefing:**
+
+- You agreed to carry this case before anyone prepared a briefing
+- Every point about a person rests on something known, not guessed from their job title
+- Nothing outstanding has been turned into a settled fact to make the case look finished
+- Every likely question has an honest answer, including "not yet confirmed" where that is true
+- Nothing is written as though it came from the case owner; any message is for you to send in your own name

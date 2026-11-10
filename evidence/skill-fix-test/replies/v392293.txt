@@ -1,0 +1,84 @@
+Here's the briefing for Wilhelmina, and a note she can send in her own name. Please check two things with her first: that she's happy to say every point below herself, and whether the ask is a trial that starts now or one that waits until the data protection review is finished. That second one is your call and hers, not mine, so I've left it open (see "Before Thursday" at the end).
+
+---
+
+## Briefing for Wilhelmina: shift-scheduling tool trial
+
+### What to say (speaking notes)
+
+**The ask:** approval for the support team to run a four-week trial of a new shift-scheduling tool.
+
+**What's confirmed:**
+- The vendor has said in writing that the four-week trial is free and carries no commitment to buy.
+
+**What's an estimate:**
+- The two support leads think building the rota by hand takes them about three hours a week between them. That's their own estimate. Nobody has timed it.
+
+**What's still open:**
+- A data protection review of the tool has started but isn't finished.
+
+**The point most likely to matter in this room:** Caspar said last month that he wants fewer tools in the business, not more. The trial adds a tool, so it's better to say that up front than to wait for him to raise it. The honest framing: it's free and has no commitment, so the business can drop it after four weeks with nothing added. Don't claim it will replace an existing tool. Nobody has established that.
+
+### Person by person
+
+**Caspar Ferrand, Head of Operations**
+- Known concern: he wants fewer tools, not more. He said so at last month's leadership meeting.
+- Address it directly: this is a time-limited trial with no commitment, not a decision to adopt.
+- Don't overstate the time saving to win him over. "About three hours a week, by the leads' own estimate" is as far as the evidence goes.
+
+**Nerys Tallent, HR Business Partner**
+- Nothing is known about her view on this. Her job title doesn't tell us what she'll care about, so there's no tailored point for her here.
+- If she raises something, answer it from the evidence above, or say "I'll find out".
+
+**Solveig Mbatha, Operations Finance Lead**
+- Nothing is known about her view on this either. Same approach as Nerys: no assumed priority, honest answers if she asks.
+
+### Questions the evidence leaves open, with honest answers
+
+**"Has the data protection review cleared it?"**
+Not yet. It's under way but not finished.
+
+**"How much time does it actually save?"**
+We don't know yet. The leads estimate about three hours a week between them on the manual rota, but nobody has timed it. One thing the trial could do is measure it properly.
+
+**"What happens after four weeks? What would it cost?"**
+The trial is confirmed free with no commitment to buy. We haven't confirmed what it would cost after that.
+
+**"Does this replace something we already have, or is it one more tool?"**
+Not established. As things stand, it's a trial on top of the current manual process.
+
+**"How will we know if the trial worked?"**
+No success measure has been agreed yet. (See "Before Thursday" below.)
+
+---
+
+## Note for Wilhelmina to send (in her own name)
+
+> Subject: Thursday: proposed four-week trial of a shift-scheduling tool
+>
+> Hi Caspar, Nerys and Solveig,
+>
+> On Thursday I'd like to raise a proposal from my support team: a four-week trial of a shift-scheduling tool. Here's a short summary so you have it beforehand.
+>
+> - The vendor has confirmed in writing that the trial is free and carries no commitment to buy.
+> - The team's two support leads estimate that building the rota by hand takes them about three hours a week between them. That's their own estimate, not a measured figure.
+> - A data protection review of the tool has started and isn't finished yet.
+>
+> Caspar, I know you've said you'd like fewer tools in the business, not more. That's why this is a time-limited trial rather than a decision to adopt. We'd only come back with a proposal if the trial showed a clear case.
+>
+> Happy to take questions on Thursday, or before if that's easier.
+>
+> Wilhelmina
+
+---
+
+## Before Thursday: gaps for you and Wilhelmina to settle
+
+These aren't in the evidence, so I haven't filled them in. Each would make the case stronger if you can answer it honestly:
+
+1. **Start date vs the data protection review.** Is the ask "start the trial now" or "start once the review clears"? Wilhelmina needs to know which one she's asking for. If it's the second, add a line to the note saying so.
+2. **Cost after the trial.** If the vendor can tell you the price, it answers the "what happens next" question.
+3. **What success looks like.** For example, timing the rota work before and during the trial. That would turn the three-hour estimate into a real number.
+4. **The line in the note about "only come back if the trial showed a clear case".** Wilhelmina should only keep it if she means it.
+
+Wilhelmina should send the note and present the case herself. Before she does, it's worth her checking that nothing marked "estimate" or "not finished" has crept into sounding settled.

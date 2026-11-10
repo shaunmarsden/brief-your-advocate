@@ -1,0 +1,74 @@
+# Briefing for Jordan
+
+## Summary to Speak From
+
+**The ask:** approval to build an internal tool that automates the team's manual reporting process.
+
+**The evidence behind it:**
+
+- The manual process takes roughly six hours a week across the team. A two-week time log confirms this.
+- A working prototype exists. Two team members have tested it, and both confirm it saves the time we estimated.
+
+**What's outstanding:**
+
+- IT is still quoting the hosting cost. We don't have a figure yet.
+- None of the evidence says yet who would maintain the tool long term, or how much work that would be. This matters because of what Maeve has said (see below).
+
+**The points most likely to matter in this room:**
+
+1. The time saving is measured, not estimated: a two-week log, then a prototype tested by two people.
+2. Be upfront that hosting cost and long-term maintenance are still open. Don't wait for someone to ask.
+
+## Person-Specific Points
+
+**For Maeve Harcourt (VP of Engineering):** In an earlier hallway conversation, Maeve said she is wary of any new internal tool adding to the team's maintenance burden long term. Nothing in the current evidence answers that. The prototype shows the tool works and saves time. It does not show what keeping it running will cost the team. Acknowledge her concern directly and say this is not yet worked out. Don't offer reassurance we can't back up.
+
+**For Roland Reyes (Finance Director):** Nothing has been said by or about Roland on this proposal. His title suggests budget might matter to him, but that is a guess, not something he has said. Don't open with a cost pitch built on that guess. If he raises cost, the honest answer is that the hosting quote is still with IT. The confirmed fact you can give him is the six hours a week, and he can draw his own conclusions from it.
+
+## Likely Questions
+
+- **What will hosting cost?** Not yet confirmed. IT is still preparing the quote.
+- **Who maintains this once it's built, and how much effort will that take?** Not yet confirmed. The evidence so far doesn't cover maintenance.
+- **How solid is the six-hours-a-week figure?** It comes from a two-week time log across the team.
+- **Has anyone actually used the prototype?** Yes. Two team members tested it, and both confirmed it saves the estimated time.
+- **Does the time saving outweigh the cost?** Can't be answered yet. The saving is confirmed, but the hosting cost isn't.
+
+## Message, If Needed
+
+Use this only if you decide a follow-up is useful. Send it in your own name.
+
+> Subject: Reporting automation proposal: follow-up
+>
+> Hi Maeve and Roland,
+>
+> Thanks for your time today on the reporting automation proposal. A quick recap of where things stand:
+>
+> - The manual reporting process currently takes about six hours a week across the team, based on a two-week time log.
+> - A working prototype has been tested by two team members, and both confirmed it saves that time.
+> - The hosting cost is still being quoted by IT, so I don't have a figure yet.
+> - Long-term maintenance (who owns it and how much effort it takes) hasn't been worked out yet.
+>
+> I'll pass on the hosting figure once IT confirms it.
+>
+> [Jordan]
+
+(Edit the "I'll pass on" line to whatever you're actually willing to commit to. Delete it if you don't want to own that follow-up while I'm away.)
+
+## What Stays Outstanding
+
+- **Hosting cost:** IT is still quoting it. Don't give a number or a range.
+- **Long-term maintenance:** who would own the tool and how much work it would be. The evidence doesn't cover this. Don't suggest it will be low or handled.
+- **Roland's priorities:** nothing has been said about what he cares about on this proposal. Don't present budget as his known concern.
+- **Cost against benefit:** this can't be worked out until the hosting cost is confirmed.
+
+---
+
+**Jordan, before you use this, check that:**
+
+- You agreed to carry this before anyone prepared a briefing
+- Every point about a person rests on something known, not guessed from their job title
+- Nothing outstanding has been turned into a settled fact to make the case look finished
+- Every likely question has an honest answer, including "not yet confirmed" where that is true
+- Nothing is written as though it came from me, and any message is yours to send in your own name
+
+Also check that every point is something you're prepared to say yourself. Whether you present the case and whether you send any message is your call.

@@ -1,0 +1,49 @@
+# Briefing for Jordan
+
+## Summary to Speak From
+
+The ask: approve building an internal tool to automate the manual reporting process. I proposed it and am on leave when it is presented, so you are presenting it in my place.
+
+The evidence behind it:
+- The manual process takes roughly six hours a week across the team. A two-week time log confirms this.
+- A working prototype exists. Two team members have tested it, and both confirm it saves about the estimated time.
+
+What is outstanding: the hosting cost. IT is still quoting it, so there is no figure yet.
+
+The points most likely to matter in this room: the time saving is measured in a time log, not estimated from memory, and the hosting cost is not yet known and should be said as such.
+
+## Person-Specific Points
+
+**For Maeve Harcourt (VP of Engineering):** In an earlier hallway conversation, Maeve said she is wary of any new internal tool adding to the team's maintenance burden long term. That is the only thing known about her view. The evidence so far does not say who would maintain the tool after launch, so do not say it is low maintenance.
+
+**For Roland Reyes (Finance Director):** Nothing is known about his view on this proposal. His title suggests budget may be a concern, but nothing he has said confirms that, so do not assume it. If he asks about cost, the honest answer is that the hosting cost is still being quoted by IT. The only saving figure available is the six hours a week. Turning that into money needs a rate that is not in the evidence, so do not put a value on it.
+
+## Likely Questions
+
+- How much time does it save? About six hours a week across the team. A two-week time log confirms the current figure.
+- Has it been tested? A working prototype has been tested by two team members, and both confirm the saving matches the estimate. It has not been tested beyond those two people.
+- What will it cost to host? Not yet confirmed. IT is still quoting it.
+- Who will maintain it over the long term? Not yet confirmed. The evidence does not cover this.
+
+## Message, If Needed
+
+For Jordan to send in his own name, if he wants to follow up with Maeve and Roland after the presentation:
+
+"Hi Maeve and Roland, I am presenting the proposal for an internal tool to automate our manual weekly reporting, while [proposer's name] is on leave. The manual process takes about six hours a week, confirmed by a two-week time log, and a prototype has been tested by two team members. The hosting cost is still being quoted by IT, and I will share it once it is confirmed. Happy to answer questions in the meantime."
+
+## What Stays Outstanding
+
+- The exact hosting cost. IT is still quoting it.
+- Long-term maintenance of the tool. Maeve raised this, and nothing in the evidence yet answers it.
+- Whether Roland has any budget concern. Nothing is known yet.
+- Wider use beyond the two testers. The prototype has not been tested more widely.
+
+---
+
+Checklist before using this briefing:
+
+- Jordan agreed to carry this before anyone prepared a briefing
+- Every point about a person rests on something known, not guessed from their job title
+- Nothing outstanding has been turned into a settled fact to make the case look finished
+- Every likely question has an honest answer, including "not yet confirmed" where that is true
+- Nothing is written as though it came from the proposer; the message is for Jordan to send in his own name

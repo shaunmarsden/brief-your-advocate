@@ -1,0 +1,53 @@
+# Briefing for Jordan: internal reporting tool
+
+The proposer is on leave when this is presented, so you carry the case. Use this to speak from. Check each point is something you can say yourself, and do not present anything in the "not yet confirmed" column as settled.
+
+## Summary to speak from
+
+**The ask:** approval to build an internal tool that automates the manual reporting process.
+
+**The evidence behind it:**
+- The manual process takes roughly six hours a week across the team. A two-week time log confirmed this.
+- A working prototype has been tested by two team members. Both confirmed it saves the estimated time.
+
+**Still open:**
+- The hosting cost. IT is still quoting it. There is no figure yet, so do not give one.
+
+**Points most likely to matter in this room:**
+- The time saving is measured and tested, not just estimated on paper.
+- The hosting cost is not yet known, and you should say so plainly if it comes up.
+
+## Person-specific points
+
+### Maeve Harcourt, VP of Engineering
+
+**What is known:** In an earlier hallway conversation, Maeve said she is wary of any new internal tool adding to the team's maintenance burden in the long term. That is the only thing known about her view on this proposal.
+
+**Points to make:**
+- The evidence so far covers time saved and whether the prototype works. It does not cover who maintains the tool after launch, or what that costs in effort.
+- Do not say the tool is low-maintenance. Nothing so far shows that.
+- If she asks about upkeep and nobody has answered it, say it is an open question and offer to take it back to the proposer.
+
+### Roland Reyes, Finance Director
+
+**What is known:** Nothing has been said by or about Roland regarding this proposal. His title suggests budget may be a concern, but that is an assumption, not something he has said.
+
+**Points to make:**
+- Only the facts above are available: six hours a week from the time log, and a hosting cost that is still being quoted by IT.
+- Ask him what he needs to see before you assume what he cares about. Do not lead with cost as though you know it is his priority.
+
+## Likely questions and honest answers
+
+- **What does it cost to run?** The hosting cost is still being quoted by IT. It is not yet confirmed, so there is no number to give.
+- **How much time will it save?** The manual process takes roughly six hours a week, confirmed by a two-week time log. Two team members tested the prototype and both confirmed it saves the estimated time.
+- **Who maintains it after launch?** Not yet answered. Say so.
+- **Has it been tested?** Yes. A working prototype has been tested by two team members.
+- **Is the hosting cost approved or budgeted?** Not known. The cost is still being quoted, and no budget decision has been reported.
+
+## Message
+
+No message is drafted here. You are presenting in person, so the points above should be enough. If you want to follow up with Maeve or Roland afterwards, write it yourself in your own words.
+
+## Before you present
+
+Check that every point above is something you can say yourself. Keep the hosting cost labelled as not yet confirmed. Do not present the maintenance question as answered. Presenting the case stays with you.

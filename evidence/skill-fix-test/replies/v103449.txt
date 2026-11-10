@@ -1,0 +1,23 @@
+I can't write Sam's briefing yet. He hasn't agreed to present this, and this process doesn't produce a briefing until the advocate has said yes.
+
+That isn't box-ticking. If the briefing exists before you ask, the ask to Sam can turn into "here's what you'll say" rather than "would you be willing to carry this?" He might also want to present it differently, or not at all. He could have doubts about the supplier, a conflict, or no room in his diary for that committee. Once he says yes, it takes a few minutes to turn what you have into a briefing. The real last-minute risk is the gaps in the evidence, not the writing.
+
+You can use this afternoon to get those gaps ready.
+
+**1. Ask Sam.** If it helps, something like:
+
+"I'd like to propose extending our contract with [supplier], and it would need to go to the procurement committee. Would you be willing to present it? I'd give you a short briefing with the renewal terms and the feedback on service quality, and I'd want you to say only what you're comfortable standing behind. No problem if it's not something you can take on."
+
+While you're talking, ask him what he knows about what each committee member tends to focus on. That is the most useful thing he can add.
+
+**2. Fill the gaps in your evidence.** What you have so far:
+
+- The renewal terms are confirmed in writing, including a 4% price increase. That's solid, but expect the increase to be the first thing questioned. Do you know why it's 4%? Is it in line with inflation, with the market, or with what other suppliers would charge? If you don't know yet, the briefing will say "not yet confirmed" rather than guess.
+- Two internal stakeholders have confirmed the service has been reliable this year. Useful, but find out who they are and whether they're willing to be named or quoted. Also check whether the reliability is shown anywhere in figures (SLA reports, incident logs) or is only their word.
+- You know the committee is three named people, but that's all. Knowing who sits on a committee is different from knowing what each of them cares about. Unless you, Sam or someone else has actually heard them raise a concern, their sections will say plainly that nothing is confirmed. They won't get a guess based on job titles.
+
+There are also questions the committee may ask that your current evidence doesn't answer. Have alternatives been considered or priced? How long is the extension, and what are the exit terms? What happens if it isn't renewed? You don't need answers to all of these. Just know which ones are still open, so they go under "What Stays Outstanding" rather than being glossed over.
+
+**3. Come back once Sam has said yes.** Bring the committee members' names, anything known about what each of them cares about, the setting (a live meeting or a written submission), and any answers you've found to the points above. I'll then put together the full briefing: a summary for Sam to speak from, one section per committee member, likely questions with honest answers, a message for Sam to send in his own name if needed, and a list of what's still unconfirmed.
+
+If Sam says no, tell me who else might carry it and we'll start from there.

@@ -1,0 +1,43 @@
+# Briefing for Jordan
+
+## Summary to speak from
+
+The ask: approve building an internal tool to automate the manual reporting process.
+
+What is confirmed:
+- The manual process takes about six hours a week across the team. A two-week time log confirms this.
+- A working prototype exists. Two team members have tested it, and both confirm it saves the estimated time.
+
+What is not yet confirmed:
+- The hosting cost. IT is still quoting it. Do not give a figure, and say that the quote is pending if asked.
+
+The points most likely to matter in this setting:
+1. The time saving is measured, not estimated. Six hours a week comes from a time log, and the prototype has been checked by two people.
+2. Maeve's concern is long-term maintenance. Be ready to say what the evidence does and does not cover on that.
+
+## Maeve Harcourt, VP of Engineering
+
+What is known: in a hallway conversation, she said she is wary of any new internal tool adding to the team's maintenance burden long term.
+
+Points for Jordan to make:
+- The measured time saving, from the time log and the prototype tests.
+- If there is an answer on who would own and maintain the tool after handover, state it. If there is not, say so plainly and offer to come back with one. Do not guess at an answer.
+
+## Roland Reyes, Finance Director
+
+What is known: nothing has been said by or about Roland on this proposal. His title suggests budget may matter to him, but nothing he has said confirms that.
+
+Points for Jordan to make:
+- Ask him what he would need to see before deciding, rather than leading with cost.
+- If cost comes up, the honest position is that the hosting cost is still being quoted by IT. Do not present any figure as settled.
+
+## Likely questions, with honest answers
+
+- **How much time will this save?** About six hours a week across the team, from a two-week time log. Two team members who tested the prototype confirm the saving.
+- **What will it cost to run?** Not yet confirmed. IT is still quoting the hosting cost.
+- **Who maintains it long term?** The evidence so far does not answer this. Say so, and do not fill the gap.
+- **Has it been tested?** Yes, a working prototype has been tested by two team members.
+
+## Before presenting
+
+Jordan should check that every point is something he is prepared to say himself, and that the hosting cost and the maintenance question are described as open, not settled. A message is not needed for this briefing. Presenting the case stays with Jordan.

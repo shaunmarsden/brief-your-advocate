@@ -1,0 +1,76 @@
+# Briefing for Wilhelmina Brackenbury
+
+## 1. Summary to speak from
+
+**The ask:** Approve a four-week trial of a new shift-scheduling tool for the support team. The trial is free and carries no commitment to buy.
+
+**Confirmed:**
+- The vendor has confirmed in writing that the four-week trial is free, with no commitment to buy.
+
+**Estimated, not measured:**
+- Building the rota by hand takes the two support leads about three hours a week between them. This is their own estimate. Nobody has timed it.
+
+**Outstanding, not yet settled:**
+- The data protection review has started but is not finished.
+
+**Points most likely to matter on Thursday:**
+1. The trial costs nothing and commits us to nothing. Say so, and point to the vendor's written confirmation.
+2. Present the time saving as the leads' estimate. The trial is the way to test it.
+3. Say plainly that the data protection review is not finished. Do not describe it as passed or low-risk.
+
+## 2. Person-specific points
+
+**Caspar Ferrand, Head of Operations**
+- Known: At last month's leadership meeting he said he wants fewer tools in the business, not more.
+- Nothing else is known about his view.
+- This proposal adds a tool. Expect that to meet his stated preference. Consider asking him before Thursday whether a tool that replaces the manual rota would count against that, rather than assuming either way.
+
+**Nerys Tallent, HR Business Partner**
+- Nothing is known about her view on this proposal.
+- Do not assume a concern from her role. Ask her before Thursday whether she has anything she needs covered.
+
+**Solveig Mbatha, Operations Finance Lead**
+- Nothing is known about her view on this proposal.
+- The only fact we can state is that the trial is free and uncommitted, as confirmed in writing by the vendor. Do not assume a cost concern or any other priority from her role.
+
+## 3. Likely questions and honest answers
+
+- **Does the trial cost anything?** No. The vendor has confirmed in writing that it is free, with no commitment to buy.
+- **What would it cost after the trial?** Not yet known. We have no post-trial pricing in hand.
+- **How much time will it save?** The two support leads estimate about three hours a week between them. Nobody has timed this. The trial would test it.
+- **Has the tool been checked for data protection?** A review has started but is not finished. We do not yet have a result.
+- **Can we walk away after four weeks?** The vendor has confirmed there is no commitment to buy. We have not seen anything that would bind us beyond the trial.
+- **Does this add to the number of tools in the business?** Not yet known. This is a fair question for Caspar, and it is better to ask him beforehand than to answer for him.
+
+## 4. Note for Wilhelmina to send
+
+Drafted for Wilhelmina to send in her own name. She should check every line is something she is prepared to say herself, and fill in the bracketed items.
+
+---
+
+**Subject:** Support shift-scheduling trial for Thursday's leadership meeting
+
+Hi Caspar, Nerys and Solveig,
+
+I'm taking a proposal to Thursday's operations leadership meeting on behalf of [name] and the support team: a four-week trial of a new shift-scheduling tool.
+
+What we know:
+- The vendor has confirmed in writing that the trial is free, with no commitment to buy.
+- The two support leads estimate that building the rota by hand takes about three hours a week between them. This is their estimate. We have not timed it.
+- A data protection review of the tool has started but is not finished.
+
+What we don't know yet:
+- What the tool would cost after the trial.
+- Whether the time saving is real. The trial would test this.
+
+If you have a concern about this, or something you need checked before Thursday, please tell me by [day]. I would rather answer it now than in the room.
+
+Thanks,
+Wilhelmina
+
+---
+
+## Before Thursday
+
+- Decide whether the trial should be conditioned on the data protection review finishing before any live data goes in. Only Wilhelmina and [name] can make that call.
+- Ask Caspar, Nerys and Solveig what they need, as the note above does, rather than relying on this briefing for their views.

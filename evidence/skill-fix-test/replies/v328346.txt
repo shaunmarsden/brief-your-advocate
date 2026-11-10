@@ -1,0 +1,67 @@
+# Briefing for Jordan
+
+## Summary to Speak From
+
+**The ask:** approval to build an internal tool that automates the manual reporting process.
+
+**The evidence behind it:**
+- The manual process takes roughly six hours a week across the team. A two-week time log confirms this.
+- A working prototype exists. Two team members have tested it, and both confirm it saves the estimated time.
+
+**What's outstanding:**
+- The hosting cost. IT is still quoting it, so there is no figure yet.
+
+**What will probably matter most in this room:**
+1. Maeve has already said she is wary of new internal tools adding to the team's long-term maintenance burden. That is the concern most likely to come up, and the evidence so far does not answer it. Say so plainly rather than talk round it.
+2. The time saving is the strongest point. It is measured, not estimated, and the prototype backs it up. Lead with it.
+
+I wasn't told where this is being presented (a meeting, a call, or something forwarded), so this is written to speak from in person. It can be adapted if the setting is different.
+
+## Person-Specific Points
+
+**For Maeve Harcourt (VP of Engineering):** In an earlier hallway conversation she said she is wary of any new internal tool adding to the team's maintenance burden over the long term. That is the one thing actually known about her concern. The evidence so far covers time saved and whether the prototype works. It says nothing about who would maintain the tool, how much upkeep it would need, or what happens if it breaks. Don't fill that gap with reassurance. Acknowledge her concern directly, point out that the prototype shows the tool works, and say that the maintenance picture is not yet worked out. If she wants that answered before deciding, that is a fair condition to take back.
+
+**For Roland Reyes (Finance Director):** Nothing has been said by or about Roland on this proposal, so nothing is confirmed about what he cares about. His title might suggest budget, but that is a guess, not something he has said. Don't build the pitch for him around cost on that basis. Present the same evidence, and ask him what he would need to see. If cost does come up, the honest answer is that the hosting quote from IT is still outstanding.
+
+## Likely Questions
+
+- **How much will hosting cost?** Not yet confirmed. IT is still quoting it.
+- **Who will maintain the tool, and how much ongoing work will it be?** Not yet confirmed. The evidence so far doesn't cover maintenance. Given Maeve's stated concern, expect this one.
+- **How do we know it saves six hours a week?** A two-week time log measured the current manual process at roughly six hours a week across the team. Two team members tested the prototype and both confirmed it saves the estimated time.
+- **How widely has the prototype been tested?** By two team members. That is the full extent of testing so far. Don't describe it as broader than that.
+
+## Message, If Needed
+
+Probably not needed, since you're presenting in person. If Maeve or Roland want something in writing afterwards, here is a short note to send in your own name:
+
+> Hi Maeve and Roland,
+>
+> Thanks for your time on the reporting tool proposal. A quick recap of where things stand:
+>
+> - The current manual process takes roughly six hours a week across the team, based on a two-week time log.
+> - A working prototype has been tested by two team members, and both confirmed it saves that time.
+> - The hosting cost is still being quoted by IT, so I don't have a figure yet.
+> - Long-term maintenance hasn't been worked out yet. I know that's an important point, Maeve, and it needs an answer before this goes further.
+>
+> I'll pass on any questions so they can be followed up.
+>
+> Jordan
+
+Edit this freely. It should only say things you are happy to put your own name to.
+
+## What Stays Outstanding
+
+- **Hosting cost:** still being quoted by IT. Don't give a figure or a range.
+- **Long-term maintenance:** who owns it, how much upkeep it needs, and the support plan have not been established. This was never claimed as part of the evidence, but it is the gap Maeve has flagged, so don't let it sound settled.
+- **What Roland cares about:** unknown. Don't present a guess as his view.
+- **Testing beyond two people:** the prototype has only been tested by two team members. Don't present it as tested more widely.
+
+---
+
+**Checklist for Jordan before using this:**
+
+- [ ] You agreed to carry this before anyone prepared a briefing
+- [ ] Every point about a person rests on something known, not guessed from their job title
+- [ ] Nothing outstanding has been turned into a settled fact to make the case look finished
+- [ ] Every likely question has an honest answer, including "not yet confirmed" where that is true
+- [ ] Nothing is written as though it came from me; any message is yours to send in your own name

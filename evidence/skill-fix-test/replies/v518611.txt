@@ -1,0 +1,57 @@
+Here is the briefing for Wilhelmina, then the note she can send. Confirmed points and open points are kept apart, so nothing outstanding is presented as settled.
+
+## Briefing for Wilhelmina
+
+**The ask:** approve a four-week trial of a new shift-scheduling tool for the support team.
+
+**Confirmed**
+- The vendor has confirmed in writing that the trial is free, with no commitment to buy.
+
+**Not yet confirmed (say so if asked)**
+- Time saved. The two support leads estimate that building the rota by hand takes about three hours a week between them. Nobody has timed it, so present it as their estimate.
+- Data protection. The review has started but is not finished. Do not describe the tool as cleared.
+- Cost after the trial, and whether the tool would replace anything the team already uses. Nothing in the evidence covers either.
+
+**The two points most likely to matter on Thursday**
+1. The trial costs nothing and commits the business to nothing. That is true and worth saying first.
+2. The data protection review is still open. If it comes up, say it is in progress, and give a finish date only if you have one.
+
+## Person-specific points
+
+**Caspar Ferrand, Head of Operations.** The only known view on record: at last month's leadership meeting he said he wants fewer tools in the business, not more. Use only that. The trial adds no commitment, so it adds no tool unless the business later chooses to buy it. Do not say it replaces an existing tool, because that is not known. If it does replace one, that is the strongest answer to his concern, so check before Thursday.
+
+**Nerys Tallent, HR Business Partner.** Nothing is known about her view on this. Her role does not tell us her priority. The open data protection review may be relevant to HR, but nobody has said so, so do not present it as her concern. Wilhelmina could ask her directly before Thursday whether she needs anything from the review.
+
+**Solveig Mbatha, Operations Finance Lead.** Nothing is known about her view on this. The evidence confirms only that the trial is free. If she asks about cost, say the price after the trial is not known yet. Do not imply there will be none.
+
+## Likely questions, and honest answers
+
+- **Does it replace anything we already pay for?** Not known yet. Find out from the vendor or the team before Thursday.
+- **What does it cost after the trial?** Not confirmed. The vendor has only confirmed that the trial is free.
+- **Is the data protection review finished?** No. It has started but is not finished.
+- **How much time will it save?** Not measured. The leads estimate about three hours a week of manual rota building. The trial is the way to measure it.
+- **What happens at the end of four weeks?** The vendor has confirmed no commitment to buy. Beyond that, nothing is known.
+
+## Note for Wilhelmina to send (in her own name)
+
+Subject: Support shift-scheduling trial, for Thursday
+
+Hi Caspar, Nerys and Solveig,
+
+On Thursday I'll be raising a proposal from the support team: a four-week trial of a new shift-scheduling tool. I wanted you to have the facts beforehand.
+
+What we know:
+- The vendor has confirmed in writing that the trial is free, with no commitment to buy.
+- The two support leads estimate that building the rota by hand takes about three hours a week between them. That is their estimate; it has not been timed.
+- A data protection review of the tool has started but is not finished.
+
+What we don't know yet: the cost after the trial, and whether the tool would replace anything we already use.
+
+If you have questions before Thursday, reply to me and I will find the answer.
+
+Best,
+Wilhelmina
+
+---
+
+Before Wilhelmina uses this, she should check that every point is one she can say herself, and that the open items stay open. She decides whether to send the note. Sending it stays with her.

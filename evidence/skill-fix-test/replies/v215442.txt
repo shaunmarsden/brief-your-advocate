@@ -1,0 +1,74 @@
+# Briefing for Jordan: Reporting Automation Tool
+
+Jordan, thank you for presenting this while I'm on leave. These notes are for you to speak from. You don't need to hand them over. Please read them through and only say what you're comfortable saying yourself.
+
+---
+
+## 1. What to say
+
+**The ask:** Approval to build an internal tool that automates our manual reporting process.
+
+**What we've confirmed:**
+- The manual process takes about **six hours a week across the team**. A two-week time log confirmed this.
+- A **working prototype exists**. Two team members have tested it, and both confirmed it saves the time we estimated.
+
+**What we haven't confirmed yet:**
+- **Hosting cost.** IT is still quoting it. There is no figure yet, so please don't give an estimate or a range.
+
+**The two points most likely to matter in this meeting:**
+1. Maeve has raised long-term maintenance before (see below). Expect it to come up, and be ready to say plainly what we do and don't know about it.
+2. The cost side is incomplete until IT sends its quote. It's better to say so up front than to have it come out under questioning.
+
+---
+
+## 2. Points for each person
+
+### Maeve Harcourt, VP of Engineering
+
+**What we actually know:** In an earlier hallway conversation, Maeve said she is wary of any new internal tool adding to the team's long-term maintenance burden.
+
+**How to handle it:**
+- Raise maintenance yourself rather than waiting for her to ask. It's the one concern she has actually voiced.
+- Be straight about where the evidence stops. We've shown the tool saves time. We haven't shown what it will cost to maintain. Neither the time log nor the prototype testing covered upkeep.
+- Don't claim it will be low-maintenance. Nothing in the evidence supports that yet.
+
+### Roland Reyes, Finance Director
+
+**What we actually know:** Nothing. He hasn't said anything about this proposal, and no one has passed on anything he's said about it.
+
+**How to handle it:**
+- Don't build your pitch to him around an assumed priority. His title might suggest budget matters to him, but that's a guess, not something he has said.
+- Give him the same core case: the confirmed time saving and the tested prototype. Then ask him what he'd need to see. That gets you a real answer instead of one we invented.
+- If cost does come up, say plainly that the hosting quote is still with IT (see below).
+
+---
+
+## 3. Likely questions and honest answers
+
+These come from the gaps the evidence leaves open, not from guessing what people might ask.
+
+**"What will hosting cost?"**
+Not yet confirmed. IT is still quoting it. I can follow up with the figure once it arrives.
+
+**"Who maintains this long term, and how much effort will that take?"**
+Not yet established. The evidence so far covers time saved, not upkeep. If Maeve wants this answered before she approves anything, that's a fair condition, and it's fine to take it away as an action.
+
+**"Is two testers enough to trust the time saving?"**
+Two team members tested the prototype, and both confirmed it saves the estimated time. The six-hour figure comes separately from a two-week time log. It's fair to say that's the extent of the testing so far.
+
+**"So is the overall saving worth it?"**
+We can't say yet. We know the time saved (about six hours a week). We don't know the hosting cost or the maintenance effort. A full net figure isn't possible until both are in.
+
+---
+
+## 4. Follow-up message
+
+You're presenting in person, so I haven't drafted one. If you'd like to send a short note afterwards in your own name, for example to confirm that the hosting figure will follow once IT sends it, just tell me and I'll draft it for you.
+
+---
+
+## Before you present
+
+- Check that every point above is something you're prepared to say yourself. Cut or change anything you're not.
+- Make sure nothing still outstanding (the hosting cost, the maintenance effort) has slipped into sounding settled.
+- Presenting the case, and sending anything afterwards, is up to you.

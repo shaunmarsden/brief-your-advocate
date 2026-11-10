@@ -1,0 +1,74 @@
+Here is the briefing for Jordan. Everything below is for Jordan to speak from or adapt. None of it is written to Maeve or Roland directly.
+
+---
+
+# Briefing for Jordan: Internal Reporting Automation Tool
+
+## 1. Summary to speak from
+
+**The ask:** Approval to build an internal tool that automates the manual reporting process.
+
+**The evidence behind it:**
+- The manual process takes roughly six hours a week across the team. This comes from a two-week time log, so it is measured, not estimated.
+- A working prototype exists. Two team members have tested it, and both confirmed it saves the estimated time.
+
+**What is not settled yet:**
+- The hosting cost. IT is still quoting it. There is no figure to give yet, and none should be suggested.
+
+**The points most likely to matter in this room:**
+- Maeve has said she is wary of new internal tools adding to the team's long-term maintenance burden. Expect that to be her main question.
+- The hosting cost is the one open number. Say plainly that it is still with IT rather than skipping past it.
+
+## 2. Person-specific points
+
+### Maeve Harcourt, VP of Engineering
+
+**What we actually know:** In an earlier hallway conversation she said she is wary of any new internal tool adding to the team's maintenance burden long term.
+
+**What to lead with:** The time saving is measured: roughly six hours a week from a two-week log, and two testers confirmed the prototype saves that time.
+
+**The honest gap:** None of the current evidence covers ongoing maintenance. We have no estimate of upkeep effort, no named owner, and no plan for what happens if it breaks. Do not reassure her that maintenance will be light, because nothing yet shows that. The straight answer is that it has not been assessed yet, and that it is a fair condition to set before approval.
+
+**A possible next step to offer, only if you are comfortable proposing it:** Agree that a maintenance estimate and a named owner come back to her before anything is built beyond the prototype.
+
+### Roland Reyes, Finance Director
+
+**What we actually know:** Nothing. He has not said anything about this proposal, and nobody has passed on anything about what he thinks of it.
+
+**What not to assume:** His title suggests budget might matter to him, but that is a guess, not something he has said. Do not build the pitch to him around cost as though it were his known priority.
+
+**What to do instead:** Give him the same evidence as everyone else, and say clearly that the hosting cost is not confirmed. Then ask him what he would need to see to support it. His answer is the first real information we will have about his concerns, so it is worth writing down.
+
+## 3. Likely questions, with honest answers
+
+These come from the gaps in the evidence, not from guesses about either person.
+
+**"What will it cost to host?"**
+Not yet confirmed. IT is still producing the quote. Do not give a range or a rough figure.
+
+**"Who maintains it, and how much effort will that take?"**
+Not yet assessed. The evidence covers the time saved, not the upkeep. (Maeve is very likely to ask this, given what she has said.)
+
+**"How reliable is the time-saving figure?"**
+The six hours a week comes from a two-week time log. The prototype's saving was confirmed by two team members who tested it. That is real evidence, but it is a small test. If someone asks whether it has been tried more widely, the answer is no, not yet.
+
+**"Is the prototype ready to use now?"**
+It works and has been tested by two people. Nothing in the evidence says it is ready to roll out across the team, so do not claim that.
+
+## 4. A message, if needed
+
+Jordan is presenting this in person, so a message may not be needed. If Jordan wants to send a short follow-up afterwards, here is a draft to send in Jordan's own name. Jordan should change the wording to sound like Jordan.
+
+> Thanks for your time on the reporting automation proposal today. To recap: the manual process takes about six hours a week across the team, based on a two-week time log, and two team members have tested a working prototype and confirmed it saves that time. The hosting cost is still being quoted by IT, and I'll pass it on once it's confirmed. [If agreed in the meeting: We'll also bring back a maintenance estimate and a named owner before going further.]
+
+## Before Jordan uses this
+
+Jordan should check two things:
+- Every point here is something Jordan is happy to say in Jordan's own words.
+- Nothing still open (the hosting cost, maintenance effort, wider rollout) has been made to sound settled.
+
+Presenting the case, and sending any follow-up, stays with Jordan.
+
+---
+
+One thing for you before you go on leave: if you can get IT's hosting quote, or even a rough maintenance estimate, to Jordan before the meeting, that would close the two biggest gaps. If you can't, the briefing above still works. Jordan just says those items are not yet confirmed.
