@@ -8,7 +8,7 @@ It based Maeve's points on what she said, not on her title. Her concern about ma
 
 It didn't guess at Roland's concern. Nobody knows what Roland cares about. There's only an assumption from his title: a Finance Director probably cares about cost. The output said so. It didn't invent a likely-sounding budget objection and answer a question Roland may never ask.
 
-It left the hosting cost unknown. It would have been easy to estimate a number to make Jordan look better prepared. The output said "not yet confirmed" in the summary, the likely questions and the draft message.
+It left the hosting cost unknown. It would have been easy to estimate a number to make Jordan look better prepared. The output said the cost wasn't confirmed in the summary, the likely questions and the draft message.
 
 It wrote the draft message for Jordan to send in their own name, not as though you were sending it.
 
